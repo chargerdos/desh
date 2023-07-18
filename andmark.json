@@ -1,0 +1,4954 @@
+{
+    "_id" : ObjectId("58a2a699e3af086d6147c9da"),
+    "types" : [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sri Raghavendra Wood Works",
+    "lon" : 77.55355109999999,
+    "lat" : 12.9981126,
+    "place_id" : "ChIJk2OLdo89rjsRmdif0B7ZQGY",
+    "last_modified_date" : ISODate("2020-02-05T12:11:44.933+0000"),
+    "vicinity" : "Mahakavi Kuvempu Road, Mariappanapalya, Rajaji Nagar, Bengaluru",
+    "id" : "13753",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.55355109999999,
+            12.9981126
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5d7e3af086d6147c65a"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Supritha Enterprises",
+    "lon" : 77.6457842,
+    "lat" : 13.0498782,
+    "place_id" : "ChIJe6QIxlEXrjsRmI_ORjlTBHo",
+    "last_modified_date" : ISODate("2020-02-05T12:04:12.383+0000"),
+    "vicinity" : "Hennur Bagalur Road, Rammana Layout, Byrathi, Bengaluru",
+    "id" : "13209",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6457842,
+            13.0498782
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a588e3af086d6147c4f1"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "HackerRank",
+    "lon" : 77.6130431,
+    "lat" : 12.9317491,
+    "place_id" : "ChIJv33kLlIUrjsR0NTts_xADf4",
+    "last_modified_date" : ISODate("2020-02-05T12:29:39.438+0000"),
+    "vicinity" : "102, Ground Floor, Eastland Citadel, Hosur Road, Madiwala Checkpost, Bengaluru",
+    "id" : "13002",
+    "rating" : 4.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6130431,
+            12.9317491
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a585e3af086d6147c4e3"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "P P Copier Services",
+    "lon" : 77.61335,
+    "lat" : 12.931767,
+    "place_id" : "ChIJddGcKVIUrjsRqFU-D36wZp8",
+    "last_modified_date" : ISODate("2020-01-20T12:29:24.084+0000"),
+    "vicinity" : "18/48, 6th Cross, 1st Main, Maruthi Nagar, Near-A R Complex, Madiwala, Bengaluru",
+    "id" : "12988",
+    "rating" : 4.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.61335,
+            12.931767
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5a7e3af086d6147c57c"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sri Kheteshwar Tele Links",
+    "lon" : 77.639609,
+    "lat" : 12.784679,
+    "place_id" : "ChIJwZkTAVlprjsRIOov4j4WVqA",
+    "last_modified_date" : ISODate("2020-02-05T12:08:36.615+0000"),
+    "vicinity" : "1st Floor Jigani Main Road Near KEB Office Anekal Taluk, Bengaluru",
+    "id" : "13089",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.639609,
+            12.784679
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4efe3af086d6147c233"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Greycaps India Pvt. Ltd.",
+    "lon" : 77.60376,
+    "lat" : 12.916265,
+    "place_id" : "ChIJ3eNu5wMVrjsR03DpAwBewRs",
+    "last_modified_date" : ISODate("2020-02-05T12:23:26.453+0000"),
+    "vicinity" : "86, 1st Cross Road, Vysya Bank Colony, Stage 2, BTM 2nd Stage, Bengaluru",
+    "id" : "12567",
+    "rating" : 4.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.60376,
+            12.916265
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a522e3af086d6147c319"),
+    "lat" : 12.9210676,
+    "types" : [
+        "point_of_interest",
+        "school",
+        "establishment"
+    ],
+    "name" : "Chistiya International School",
+    "vicinity" : "State Highway 35,, Devasthanagalu, Via Varthur, Near Ganjur Bus Stop, Bengaluru",
+    "last_modified_date" : ISODate("2020-01-20T12:22:57.453+0000"),
+    "lon" : 77.738818,
+    "place_id" : "ChIJH4TJZoQSrjsR3wETsTmdtdA",
+    "city" : "Bangalore",
+    "id" : "12716",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.738818,
+            12.9210676
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a58ae3af086d6147c4f9"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "SmartStream Technologies",
+    "lon" : 77.6130116,
+    "lat" : 12.9318314,
+    "place_id" : "ChIJHfXwLlIUrjsRl9aBxCHqaFU",
+    "last_modified_date" : ISODate("2020-02-05T12:14:55.046+0000"),
+    "vicinity" : "Eastland Citadel, 5th Floor,, 102, Hosur Main Road, Kaveri Layout, Suddagunte Palya, Bengaluru",
+    "id" : "13008",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6130116,
+            12.9318314
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a56be3af086d6147c46c"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "The Professional Couriers",
+    "lon" : 77.7872388,
+    "lat" : 13.0715997,
+    "place_id" : "ChIJ6ba6tX4FrjsRTwCnAnGRjuM",
+    "last_modified_date" : ISODate("2020-01-20T12:33:28.211+0000"),
+    "vicinity" : "NH 4, Kammavari Pete, Hoskote",
+    "id" : "12925",
+    "rating" : 2.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.7872388,
+            13.0715997
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5c0e3af086d6147c5f0"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Ramdev Fashion",
+    "lon" : 77.67647099999999,
+    "lat" : 12.9843443,
+    "place_id" : "ChIJjyGbnUIRrjsRwYVUdXOr46s",
+    "last_modified_date" : ISODate("2020-02-05T12:10:55.111+0000"),
+    "vicinity" : "Kaggadasapura Main Road, Kaggadasapura, Bengaluru",
+    "id" : "13152",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.67647099999999,
+            12.9843443
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a689e3af086d6147c990"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Snazzy",
+    "lon" : 77.51783809999999,
+    "lat" : 12.9359937,
+    "place_id" : "ChIJqU3uOV8-rjsRAIXS3V0_RbA",
+    "last_modified_date" : ISODate("2020-02-05T12:16:08.968+0000"),
+    "vicinity" : "Mysore Road, ITI Layout 3rd Phase, Phase 3, Nayanda Halli, Bengaluru",
+    "id" : "13708",
+    "rating" : 3.9,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.51783809999999,
+            12.9359937
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a696e3af086d6147c9cb"),
+    "types" : [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Cinema",
+    "lon" : 77.5527967,
+    "lat" : 12.9978448,
+    "place_id" : "ChIJNylVmI89rjsRPZeF4_6AzZU",
+    "last_modified_date" : ISODate("2020-02-05T12:34:17.306+0000"),
+    "vicinity" : "Navarang Theatre, Nikamvasti",
+    "id" : "13744",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.5527967,
+            12.9978448
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5eee3af086d6147c6c5"),
+    "types" : [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Shine Beauty Parlor",
+    "lon" : 77.6885839,
+    "lat" : 12.9871107,
+    "place_id" : "ChIJ134X3XERrjsR0zAjgUm5AN8",
+    "last_modified_date" : ISODate("2020-02-05T12:30:36.995+0000"),
+    "vicinity" : "Nester Raga Apartment, Chinappa Layout, Mahadevapura, Bengaluru",
+    "id" : "13283",
+    "rating" : 3.1,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6885839,
+            12.9871107
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5f0e3af086d6147c6d0"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Arya Saveria",
+    "lon" : 77.69017339999999,
+    "lat" : 12.9889708,
+    "place_id" : "ChIJWSaRKHIRrjsR5RnD5qWGfzM",
+    "last_modified_date" : ISODate("2020-02-05T12:16:50.827+0000"),
+    "vicinity" : "Shiva Ganga Layout, Mahadevapura, Bengaluru",
+    "id" : "13291",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.69017339999999,
+            12.9889708
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4cee3af086d6147c199"),
+    "types" : [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Pathimc Hotel",
+    "lon" : 77.62839939999999,
+    "lat" : 12.9071549,
+    "place_id" : "ChIJbwb6hOwUrjsRBcNFedG4zgw",
+    "last_modified_date" : ISODate("2020-01-20T12:26:31.203+0000"),
+    "vicinity" : "Bommanahalli, Bengaluru",
+    "id" : "12481",
+    "rating" : NumberInt(2),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "coordinates" : [
+            77.62839939999999,
+            12.9071549
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a51fe3af086d6147c30d"),
+    "types" : [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Gunjur Government High School",
+    "lon" : 77.7361372,
+    "lat" : 12.9229638,
+    "place_id" : "ChIJ6bp65X4SrjsRM1LGImTZdH8",
+    "last_modified_date" : ISODate("2020-02-01T09:06:27.373+0000"),
+    "vicinity" : "to, Varthur Road, Gunjur Village, Bengaluru",
+    "id" : "12705",
+    "rating" : 4.1,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.7361372,
+            12.9229638
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a583e3af086d6147c4d7"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Stumpp Schuele Somappa Pvt Ltd",
+    "lon" : 77.6146978,
+    "lat" : 12.9309982,
+    "place_id" : "ChIJ-w_WeVEUrjsR-g2q8OJ6Smw",
+    "last_modified_date" : ISODate("2020-02-05T12:26:30.160+0000"),
+    "vicinity" : "139/2, Hosur Road, Koramangala, Bengaluru",
+    "id" : "12979",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6146978,
+            12.9309982
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a52ae3af086d6147c342"),
+    "types" : [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Aditi Dental Care",
+    "lon" : 77.668466,
+    "lat" : 12.919196,
+    "place_id" : "ChIJE0SaJXETrjsRMxLs1MWKXg0",
+    "last_modified_date" : ISODate("2020-01-20T12:34:57.479+0000"),
+    "vicinity" : "#955 Ambalipura, Sarjapur Main Road, Next to Big Bazar, Bengaluru",
+    "id" : "12741",
+    "rating" : 4.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.668466,
+            12.919196
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5abe3af086d6147c592"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "P R Business Center",
+    "lon" : 77.697952,
+    "lat" : 12.943088,
+    "place_id" : "ChIJz5wiaLMTrjsRpLBtCXvwEEI",
+    "last_modified_date" : ISODate("2020-02-05T12:07:29.086+0000"),
+    "vicinity" : "Service Rd, Kadubeesanahalli, Bengaluru",
+    "id" : "13103",
+    "rating" : 4.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.697952,
+            12.943088
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a67fe3af086d6147c962"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sri Raghavendra Traders",
+    "lon" : 77.62180649999999,
+    "lat" : 12.9736391,
+    "place_id" : "ChIJXTu4w7AWrjsRT81G7o_WatI",
+    "last_modified_date" : ISODate("2020-02-05T12:15:59.833+0000"),
+    "vicinity" : "129, Cauvery Complex, Old Madras Road, Ulsoor, Ulsoor, Bengaluru",
+    "id" : "13683",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.62180649999999,
+            12.9736391
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a669e3af086d6147c8fc"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sai Color Lab & Digital",
+    "lon" : 77.64471759999999,
+    "lat" : 12.9601289,
+    "place_id" : "ChIJHXlGCQUUrjsRfuHpjyYlVAY",
+    "last_modified_date" : ISODate("2020-01-20T12:08:33.357+0000"),
+    "vicinity" : "21, H A L Old Airport Road, ISRO Colony, Domlur, Bengaluru",
+    "id" : "13626",
+    "rating" : 3.3,
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "coordinates" : [
+            77.64471759999999,
+            12.9601289
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a58de3af086d6147c508"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Reactore Systems India Pvt. Ltd.",
+    "lon" : 77.6139031,
+    "lat" : 12.9325328,
+    "place_id" : "ChIJ5_MMjFEUrjsRtDFmJPaS-B0",
+    "last_modified_date" : ISODate("2020-02-05T12:15:39.705+0000"),
+    "vicinity" : "77/A,CYGNUS CHAMBERS, Jyoti Nivas College Road, Koramangala Industrial Layout, Koramangala, Bengaluru",
+    "id" : "13020",
+    "rating" : 4.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6139031,
+            12.9325328
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a588e3af086d6147c4f0"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Tricon Infotech",
+    "lon" : 77.61514,
+    "lat" : 12.930416,
+    "place_id" : "ChIJUW3a70IUrjsRMMck4g4YjLU",
+    "last_modified_date" : ISODate("2020-01-20T12:05:13.988+0000"),
+    "vicinity" : "# 143/144, Sri Aditya Industrial Estate, Hosur Main Road, 5th Block, Koramangala, Bengaluru",
+    "id" : "13001",
+    "rating" : 4.2,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.61514,
+            12.930416
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a535e3af086d6147c374"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "LOBB",
+    "lon" : 77.591358,
+    "lat" : 13.0422239,
+    "place_id" : "ChIJVbWkaJEXrjsRMAj0MMNMUm4",
+    "last_modified_date" : ISODate("2020-01-20T12:29:22.928+0000"),
+    "vicinity" : "118, outer ring road, HEBBAL, BANGALORE, Bengaluru",
+    "id" : "12777",
+    "rating" : 3.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.591358,
+            13.0422239
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a4f4e3af086d6147c249"),
+    "types" : [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Lakme Salon",
+    "lon" : 77.668418,
+    "lat" : 12.9856826,
+    "place_id" : "ChIJRQ8FN1kRrjsReNQODCLuDyk",
+    "last_modified_date" : ISODate("2020-01-20T12:12:05.795+0000"),
+    "vicinity" : "No. 9, Versova Layout, Kaggadasapura Main Road, CV Raman Nagar, Bengaluru",
+    "id" : "12579",
+    "rating" : 4.1,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.668418,
+            12.9856826
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a570e3af086d6147c482"),
+    "types" : [
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Canara Bank",
+    "lon" : 77.78660339999999,
+    "lat" : 13.0733496,
+    "place_id" : "ChIJrzqIR3kFrjsRPA3uqzJeBwM",
+    "last_modified_date" : ISODate("2020-02-05T12:08:09.782+0000"),
+    "vicinity" : "TG Badavane 1st Main Road, Kammavari Pete, Hoskote",
+    "id" : "12933",
+    "rating" : 3.9,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.78660339999999,
+            13.0733496
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a587e3af086d6147c4eb"),
+    "types" : [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Y.M Ham Shop",
+    "lon" : 77.6136449,
+    "lat" : 12.9301639,
+    "place_id" : "ChIJuxWyYVEUrjsR_xU1GyutpsQ",
+    "last_modified_date" : ISODate("2020-02-05T12:21:33.499+0000"),
+    "vicinity" : "Bengaluru, Kaveri Layout, Suddagunte Palya, Bengaluru",
+    "id" : "12996",
+    "rating" : 4.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6136449,
+            12.9301639
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a570e3af086d6147c483"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Galaxy Computers",
+    "lon" : 77.7864864,
+    "lat" : 13.0733231,
+    "place_id" : "ChIJWX4URnkFrjsRpGMtGLEq6iM",
+    "last_modified_date" : ISODate("2020-01-20T12:27:12.245+0000"),
+    "vicinity" : "#01 1st floor 1st main 1st cross T G extn, Hoskote",
+    "id" : "12934",
+    "rating" : 4.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.7864864,
+            13.0733231
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a4fae3af086d6147c263"),
+    "types" : [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "DRDO Transit Facility V",
+    "lon" : 77.6699192,
+    "lat" : 12.9866005,
+    "place_id" : "ChIJfddLEkQRrjsRAmBmMA94LdY",
+    "last_modified_date" : ISODate("2020-01-20T12:22:56.797+0000"),
+    "vicinity" : "93, 1st A Cross Road, Nagavarapalya, C V Raman Nagar, Bengaluru",
+    "id" : "12596",
+    "rating" : 4.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6699192,
+            12.9866005
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a52be3af086d6147c346"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "DTDC",
+    "lon" : 77.6691127,
+    "lat" : 12.9190556,
+    "place_id" : "ChIJd4-jOXETrjsRvl9LBxwcHcs",
+    "last_modified_date" : ISODate("2020-02-05T12:35:34.514+0000"),
+    "vicinity" : "Sarjapur Main Road, Bellandur, Bengaluru",
+    "id" : "12744",
+    "rating" : 3.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6691127,
+            12.9190556
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5d2e3af086d6147c643"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Anil Reddy And Assiciates Advocates",
+    "lon" : 77.6458207,
+    "lat" : 13.0501331,
+    "place_id" : "ChIJ6fy9x1EXrjsRksb-UCEoV1c",
+    "last_modified_date" : ISODate("2020-01-20T12:21:42.977+0000"),
+    "vicinity" : "Hennur Bagalur Road, Byrathi, Bengaluru",
+    "id" : "13198",
+    "rating" : 4.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6458207,
+            13.0501331
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a52fe3af086d6147c359"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Quicken India Pvt Ltd",
+    "lon" : 77.66828989999999,
+    "lat" : 12.9194419,
+    "place_id" : "ChIJi8-0LnETrjsR2vtknhCpRWo",
+    "last_modified_date" : ISODate("2020-02-05T12:05:34.731+0000"),
+    "vicinity" : "37, Sarjapur Main Road, Bellandur, Bengaluru",
+    "id" : "12757",
+    "rating" : 4.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.66828989999999,
+            12.9194419
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5a0e3af086d6147c55e"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "3 M Consultants",
+    "lon" : 77.6374532,
+    "lat" : 12.7872621,
+    "place_id" : "ChIJazbFuFhprjsRPtWxjRi3_1s",
+    "last_modified_date" : ISODate("2020-02-05T12:11:51.841+0000"),
+    "vicinity" : "No.1666, Near Harappanahalli Village, Nisarga Layout, Jigani, Bengaluru",
+    "id" : "13074",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6374532,
+            12.7872621
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a68ee3af086d6147c9a8"),
+    "types" : [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "NS Info City",
+    "lon" : 77.553231,
+    "lat" : 12.9978885,
+    "place_id" : "ChIJOQFMno89rjsRhtBu67SWgnk",
+    "last_modified_date" : ISODate("2020-02-05T12:30:12.807+0000"),
+    "vicinity" : "S. 1718, Dr. Rajkumar Road, Rajajinagar, Bengaluru",
+    "id" : "13719",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.553231,
+            12.9978885
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a67be3af086d6147c950"),
+    "types" : [
+        "gym",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Balaji Rambo Power Gym",
+    "lon" : 77.622131,
+    "lat" : 12.97328,
+    "place_id" : "ChIJjwl-YpwWrjsRdaV9NbYL2nE",
+    "last_modified_date" : ISODate("2020-02-05T12:23:05.055+0000"),
+    "vicinity" : "Ulsoor, Bengaluru",
+    "id" : "13668",
+    "rating" : 4.1,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.622131,
+            12.97328
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4f9e3af086d6147c25d"),
+    "types" : [
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "ATM Counter",
+    "lon" : 77.6678534,
+    "lat" : 12.9853134,
+    "place_id" : "ChIJ5wXDrEURrjsR-gb2MOroEQg",
+    "last_modified_date" : ISODate("2020-02-05T12:03:51.539+0000"),
+    "vicinity" : "Near MK Retail, Kaggadasapura Main Road, Varsova Layout, Kaggadasapura, Bengaluru",
+    "id" : "12592",
+    "rating" : 3.7,
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6678534,
+            12.9853134
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a574e3af086d6147c493"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Kushi Kids Play Station",
+    "lon" : 77.82951849999999,
+    "lat" : 12.7345424,
+    "place_id" : "ChIJbxeOOMlwrjsRmZ0HWTBbW6g",
+    "last_modified_date" : ISODate("2020-01-20T12:32:56.133+0000"),
+    "vicinity" : "Taluk Office Road, Hamumanthapuram, Kamaraj Colony, Hosur",
+    "id" : "12944",
+    "rating" : 3.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.82951849999999,
+            12.7345424
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5eee3af086d6147c6c6"),
+    "types" : [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Cure Plus Homeopathy Clinic Bangalore",
+    "lon" : 77.6885107,
+    "lat" : 12.987319,
+    "place_id" : "ChIJLxfSqGsRrjsRI2CpJYLRXws",
+    "last_modified_date" : ISODate("2020-01-20T12:11:01.854+0000"),
+    "vicinity" : "Shop E, Block C, Nester Raga, Outer Ring Road, Chinappa Layout, Mahadevapura, Bengaluru",
+    "id" : "13284",
+    "rating" : 4.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6885107,
+            12.987319
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5a5e3af086d6147c573"),
+    "types" : [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Shiva Kashi Medicals & General Store",
+    "lon" : 77.63942569999999,
+    "lat" : 12.7849106,
+    "place_id" : "ChIJN60Ip1lprjsRXDLBzNgYp8k",
+    "last_modified_date" : ISODate("2020-02-01T09:26:39.612+0000"),
+    "vicinity" : "Shivanagara, Jigani",
+    "id" : "13083",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.63942569999999,
+            12.7849106
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a686e3af086d6147c982"),
+    "types" : [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Carnival Cinemas",
+    "lon" : 77.51778879999999,
+    "lat" : 12.9358252,
+    "place_id" : "ChIJQzQtQF8-rjsRlVZ1fFq-wnw",
+    "last_modified_date" : ISODate("2020-02-05T12:26:22.608+0000"),
+    "vicinity" : "Gopalan Arcade Mall, Mysore Rd, Nayandahalli, RR Nagar, Bengaluru",
+    "id" : "13704",
+    "rating" : 4.1,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.51778879999999,
+            12.9358252
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5f4e3af086d6147c6e0"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Gajalakshmi Mahal",
+    "lon" : 77.5712473,
+    "lat" : 12.9993939,
+    "place_id" : "ChIJa9_NeiUWrjsRRVDpGSG8lRQ",
+    "last_modified_date" : ISODate("2020-02-05T12:11:59.337+0000"),
+    "vicinity" : "Venkata Ranga Iyengar Road, Malleshwaram West, Bengaluru",
+    "id" : "13298",
+    "rating" : 4.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.5712473,
+            12.9993939
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a675e3af086d6147c931"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Office of the AEE, BWSSB- Halasuru",
+    "lon" : 77.6214931,
+    "lat" : 12.9725989,
+    "place_id" : "ChIJWQjt8pwWrjsRlevBw6KazEo",
+    "last_modified_date" : ISODate("2020-02-05T12:23:57.325+0000"),
+    "vicinity" : "Swamy Vivekananda Road, Ulsoor, Bengaluru",
+    "id" : "13654",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(4),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6214931,
+            12.9725989
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4cbe3af086d6147c18b"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Gowda Softwares LLP",
+    "lon" : 77.62839799999999,
+    "lat" : 12.907368,
+    "place_id" : "ChIJSVesFOwUrjsRtxiMWNkCjEU",
+    "last_modified_date" : ISODate("2020-01-20T12:04:04.278+0000"),
+    "vicinity" : "78/2, 2nd Floor, Above Ayoun Optic Shop, Near Bommanahalli Signal,, Hosur Road, Bommanahalli, Bengaluru",
+    "id" : "12472",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "coordinates" : [
+            77.62839799999999,
+            12.907368
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a59de3af086d6147c552"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "anjani telecom",
+    "lon" : 77.63785,
+    "lat" : 12.786078,
+    "place_id" : "ChIJ-QgB3lhprjsRXVzCaTM00bs",
+    "last_modified_date" : ISODate("2020-01-20T12:15:25.476+0000"),
+    "vicinity" : "#6,sin road,, near main bus stop, jigani, anekal taluk, Bengaluru",
+    "id" : "13070",
+    "rating" : NumberInt(2),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "coordinates" : [
+            77.63785,
+            12.786078
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5aee3af086d6147c59f"),
+    "types" : [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "HDFC Bank ATM",
+    "lon" : 77.6967612,
+    "lat" : 12.9437406,
+    "place_id" : "ChIJ0QQ2frMTrjsRE1LRpH2d2zU",
+    "last_modified_date" : ISODate("2020-02-05T12:17:34.788+0000"),
+    "vicinity" : "88, Marathahalli - Sarjapur Outer Ring Road, Bellandur, Marathahalli, Bengaluru",
+    "id" : "13112",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6967612,
+            12.9437406
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5b0e3af086d6147c5a7"),
+    "types" : [
+        "car_rental",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Just Ride Cars",
+    "lon" : 77.6983977,
+    "lat" : 12.9428741,
+    "place_id" : "ChIJHxQbRLMTrjsRwPWKktVGPY8",
+    "last_modified_date" : ISODate("2020-02-05T12:07:20.264+0000"),
+    "vicinity" : "88, Marathahalli - Sarjapur Outer Ring Road, Behind Chroma, Bellandur, Marathahalli, Bengaluru",
+    "id" : "13117",
+    "rating" : 3.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6983977,
+            12.9428741
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a67de3af086d6147c957"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Istana",
+    "lon" : 77.6218575,
+    "lat" : 12.973545,
+    "place_id" : "ChIJj91AhpwWrjsRJsKROQsFgCU",
+    "last_modified_date" : ISODate("2020-01-20T12:18:39.323+0000"),
+    "vicinity" : "Second Floor, Near Lido Mall, Swamy Vivekananda Road, Someshwarpura, Ulsoor, Bengaluru",
+    "id" : "13674",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "coordinates" : [
+            77.6218575,
+            12.973545
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5a4e3af086d6147c571"),
+    "lat" : 12.7849943,
+    "types" : [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "name" : "Mother Teresa School",
+    "vicinity" : "Jigani",
+    "last_modified_date" : ISODate("2020-01-20T12:02:33.550+0000"),
+    "lon" : 77.6365191,
+    "place_id" : "ChIJb_9dLVlprjsRMscFLxknSgA",
+    "city" : "Bangalore",
+    "id" : "13082",
+    "rating" : 4.7,
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "coordinates" : [
+            77.6365191,
+            12.7849943
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5c1e3af086d6147c5f6"),
+    "types" : [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Disha Polyclinc",
+    "lon" : 77.6770634,
+    "lat" : 12.9843983,
+    "place_id" : "ChIJS10MVkIRrjsRLkIk754x_Yo",
+    "last_modified_date" : ISODate("2020-02-05T12:21:48.349+0000"),
+    "vicinity" : "107, Kaggadasapura Main Road, Nagavarapalya, C V Raman Nagar, Bengaluru",
+    "id" : "13156",
+    "rating" : 2.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6770634,
+            12.9843983
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a685e3af086d6147c97a"),
+    "types" : [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Axis Bank ATM",
+    "lon" : 77.5180252,
+    "lat" : 12.9358589,
+    "place_id" : "ChIJHYEQOF8-rjsRqCLl5bQIhok",
+    "last_modified_date" : ISODate("2020-01-20T12:04:24.758+0000"),
+    "vicinity" : "Shop No. 3, Gopalan Arch Mall, Near RR Nagar Arch, Mysore Road, Bidadi",
+    "id" : "13698",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "coordinates" : [
+            77.5180252,
+            12.9358589
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a4f7e3af086d6147c255"),
+    "types" : [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "ICICI BANK ATM",
+    "lon" : 77.66778,
+    "lat" : 12.985884,
+    "place_id" : "ChIJfXs9k7AXrjsRIm_VRFRSMlA",
+    "last_modified_date" : ISODate("2020-01-20T12:15:16.141+0000"),
+    "vicinity" : "Snap Fitness Centre, Bengaluru",
+    "id" : "12588",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "coordinates" : [
+            77.66778,
+            12.985884
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a530e3af086d6147c35a"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Securonix",
+    "lon" : 77.668354,
+    "lat" : 12.919462,
+    "place_id" : "ChIJP-q7LnETrjsRT5u1n-9rEOI",
+    "last_modified_date" : ISODate("2020-02-05T12:20:41.602+0000"),
+    "vicinity" : "The Hub - SJR Primecorp, Ground Floor, Sarjapur Main Road, Near Iblur Junction, Bengaluru",
+    "id" : "12758",
+    "rating" : 4.2,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.668354,
+            12.919462
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a52ee3af086d6147c351"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "The hub",
+    "lon" : 77.6682215,
+    "lat" : 12.9192729,
+    "place_id" : "ChIJTQ_EKHETrjsRkEScdBwlrDw",
+    "last_modified_date" : ISODate("2020-01-20T12:19:40.887+0000"),
+    "vicinity" : "37, Sarjapur Main Road, Bellandur, Bengaluru",
+    "id" : "12753",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6682215,
+            12.9192729
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5aae3af086d6147c58a"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Madhubani Art Centre",
+    "lon" : 77.6974113,
+    "lat" : 12.9421285,
+    "place_id" : "ChIJ1ZYvErMTrjsRBj0fjuVy3_M",
+    "last_modified_date" : ISODate("2020-02-05T12:16:31.033+0000"),
+    "vicinity" : "No. 50/9, Gubbi Cross, Hennur Main Road, Opposite Bio Zen Research, Bengaluru",
+    "id" : "13096",
+    "rating" : 4.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6974113,
+            12.9421285
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a586e3af086d6147c4e5"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Adlabs Photo Studio",
+    "lon" : 77.6133227,
+    "lat" : 12.9317372,
+    "place_id" : "ChIJK8N-KVIUrjsRPOU1TgSJGx0",
+    "last_modified_date" : ISODate("2020-01-20T12:10:20.599+0000"),
+    "vicinity" : "Kaveri Layout, Suddagunte Palya, Bengaluru",
+    "id" : "12990",
+    "rating" : 3.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6133227,
+            12.9317372
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5afe3af086d6147c5a1"),
+    "types" : [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Kadabisanahalli",
+    "lon" : 77.69673499999999,
+    "lat" : 12.941774,
+    "place_id" : "ChIJf0yha7ITrjsRfxZuxfYnq4A",
+    "last_modified_date" : ISODate("2020-02-01T09:19:53.880+0000"),
+    "vicinity" : "Marathahalli - Sarjapur Outer Ring Road, Kodbisanhalli, Bengaluru",
+    "id" : "13113",
+    "rating" : 2.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.69673499999999,
+            12.941774
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5b0e3af086d6147c5aa"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Prakasha Pride Society",
+    "lon" : 77.69842,
+    "lat" : 12.942453,
+    "place_id" : "ChIJNTmjOLMTrjsR02k-ZZsEUDo",
+    "last_modified_date" : ISODate("2020-02-05T12:10:42.110+0000"),
+    "vicinity" : "Kodbisanhalli, Bengaluru",
+    "id" : "13120",
+    "rating" : 2.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.69842,
+            12.942453
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a69be3af086d6147c9e4"),
+    "types" : [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Icici Bank ATM",
+    "lon" : 77.6775701,
+    "lat" : 13.0115454,
+    "place_id" : "ChIJJ4b6RR8RrjsRbQBNw6OWhio",
+    "last_modified_date" : ISODate("2020-02-05T12:19:18.604+0000"),
+    "vicinity" : "Ramamurthinagar Main Road, Near-Dooravani Medical, Ramamurthy Nagar, Bengaluru",
+    "id" : "7",
+    "rating" : 2.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6775701,
+            13.0115454
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5dae3af086d6147c669"),
+    "types" : [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "AR Forex & Travels",
+    "lon" : 77.55209099999999,
+    "lat" : 12.97463,
+    "place_id" : "ChIJ7eB36fo9rjsRfVxn93P2lY4",
+    "last_modified_date" : ISODate("2020-02-05T12:35:12.021+0000"),
+    "vicinity" : "#12 Near Prasanna Theatre Circle, Magadi Main Road, Rajaji Nagar, Bengaluru",
+    "id" : "13216",
+    "rating" : 4.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.55209099999999,
+            12.97463
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a390e3af086d6147bfbf"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sevanthi Ladies Tailors",
+    "lon" : 77.697574,
+    "lat" : 12.709757,
+    "place_id" : "ChIJMwYnWXhvrjsRscle546VWz8",
+    "last_modified_date" : ISODate("2020-02-05T12:24:28.630+0000"),
+    "vicinity" : "Beside Nairs Hotel, Anekal, Old Syndicate Bank Road, Weaver Colony, Bangalore",
+    "id" : "12204",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.697574,
+            12.709757
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a558e3af086d6147c412"),
+    "types" : [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sri Manjunatha Dental Health Care",
+    "lon" : 77.715347,
+    "lat" : 12.991491,
+    "place_id" : "ChIJQ7SplZYRrjsRuv0SAOGIzyo",
+    "last_modified_date" : ISODate("2020-02-05T12:13:41.100+0000"),
+    "vicinity" : "Sri Sathya Sai Complex, ITPL Main Road, Bengaluru",
+    "id" : "12870",
+    "rating" : 4.2,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.715347,
+            12.991491
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5a8e3af086d6147c585"),
+    "city" : "Bangalore",
+    "vicinity" : "Prestige Tech Park III, Kadubeesanahalli Bridge, Kaverappa Layout, Kadubeesanahalli, Bengaluru",
+    "place_id" : "ChIJCRJ_kLMTrjsRq8ZiMSF7GjE",
+    "name" : "J.P. Morgan Chase",
+    "last_modified_date" : ISODate("2020-01-05T12:37:02.662+0000"),
+    "lat" : 12.9428771,
+    "lon" : 77.6966127,
+    "types" : [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "id" : "13093",
+    "rating" : 4.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6966127,
+            12.9428771
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a68ee3af086d6147c9a4"),
+    "types" : [
+        "car_wash",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Car Express",
+    "lon" : 77.5176426,
+    "lat" : 12.9344485,
+    "place_id" : "ChIJ8-nHx1g-rjsRoRcU3xj1rAU",
+    "last_modified_date" : ISODate("2020-01-20T12:33:20.330+0000"),
+    "vicinity" : "915, Kenchena Halli Road, Remco Bhel Layout, Kenchenhalli, RR Nagar, Bengaluru",
+    "id" : "13716",
+    "rating" : 4.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.5176426,
+            12.9344485
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a585e3af086d6147c4e4"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Geetha Technologies",
+    "lon" : 77.61335,
+    "lat" : 12.931767,
+    "place_id" : "ChIJddGcKVIUrjsR-u_C9ac4UB0",
+    "last_modified_date" : ISODate("2020-02-05T12:33:52.653+0000"),
+    "vicinity" : "42/2, 1st Main, Chikka Adugodi, Near-Regal Fashion, Thavarekere Main Road, Bengaluru",
+    "id" : "12989",
+    "rating" : NumberInt(2),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.61335,
+            12.931767
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a475e3af086d6147c016"),
+    "types" : [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "BCIL ATF Guest House",
+    "lon" : 77.5639446,
+    "lat" : 12.8646079,
+    "place_id" : "ChIJ49lWcKhqrjsRD76QPrVKr9w",
+    "last_modified_date" : ISODate("2020-02-05T12:12:47.999+0000"),
+    "vicinity" : "JP Nagar, Bengaluru",
+    "id" : "12241",
+    "rating" : 3.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.5639446,
+            12.8646079
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a470e3af086d6147bffe"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "SLV Tent House",
+    "lon" : 77.564967,
+    "lat" : 12.861601,
+    "place_id" : "ChIJa3KGVKZqrjsRT7-JniOW1aM",
+    "last_modified_date" : ISODate("2020-02-05T12:29:23.881+0000"),
+    "vicinity" : "No 2 & 3 Narasimhaiah Building Gollhalli Anjanapura Post, Main Road, Gottigere, Bengaluru",
+    "id" : "12232",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.564967,
+            12.861601
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a526e3af086d6147c32e"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Incubex SJP",
+    "lon" : 77.668716,
+    "lat" : 12.919064,
+    "place_id" : "ChIJOdicOnETrjsRLw9_Moov4Ko",
+    "last_modified_date" : ISODate("2020-01-20T12:10:24.560+0000"),
+    "vicinity" : "Trinity Acres and Woods, 9/2, 2nd Floor, Coronet Greens Commercial Complex, Above Big Bazaar Varthur Hobli, Ambalipura, Sarjapur Main Road, Bengaluru",
+    "id" : "12731",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.668716,
+            12.919064
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a67de3af086d6147c955"),
+    "types" : [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Ihhr Hospitality Private Limited",
+    "lon" : 77.6217958,
+    "lat" : 12.973577,
+    "place_id" : "ChIJHe1Kj5wWrjsRfEe5bhF1kVg",
+    "last_modified_date" : ISODate("2020-02-05T12:13:43.612+0000"),
+    "vicinity" : "1/1, Ista Hotel, Ulsoor, Ulsoor, Bengaluru",
+    "id" : "13672",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6217958,
+            12.973577
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a6a1e3af086d6147c9fc"),
+    "types" : [
+        "aquarium",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "New Friends Aquarium",
+    "lon" : 77.678033,
+    "lat" : 13.011667,
+    "place_id" : "ChIJd2mLOB8RrjsRApYsdsjsdf0",
+    "last_modified_date" : ISODate("2020-02-05T12:20:09.956+0000"),
+    "vicinity" : "Ramamurthinagar Main Road, Near-Little Flower Hospital, Dooravani Nagar, Bengaluru",
+    "id" : "20",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.678033,
+            13.011667
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a6a1e3af086d6147c9ff"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Lotus Party Hall",
+    "lon" : 77.6771996,
+    "lat" : 13.0115916,
+    "place_id" : "ChIJzafKWh8RrjsR_NBZNjlggW0",
+    "last_modified_date" : ISODate("2020-01-20T12:15:58.706+0000"),
+    "vicinity" : "30, Ramamurthi Nagar Main Road, Bovi Colony, Ramamurthy Nagar, Bengaluru",
+    "id" : "23",
+    "rating" : 3.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6771996,
+            13.0115916
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a586e3af086d6147c4e6"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Whiteline International Academy",
+    "lon" : 77.61310809999999,
+    "lat" : 12.9310577,
+    "place_id" : "ChIJRbvg0FMUrjsROMR-5MdVyHo",
+    "last_modified_date" : ISODate("2020-02-05T12:22:45.212+0000"),
+    "vicinity" : "Saint Johns Cross Road, Kaveri Layout, Suddagunte Palya, Bengaluru",
+    "id" : "12991",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.61310809999999,
+            12.9310577
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a68ae3af086d6147c992"),
+    "lat" : 12.9359899,
+    "types" : [
+        "shopping_mall",
+        "bowling_alley",
+        "movie_theater",
+        "grocery_or_supermarket",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+    ],
+    "name" : "Gopalan Arcade Mall",
+    "vicinity" : "Mysore Road, RR Nagar, Bengaluru",
+    "last_modified_date" : ISODate("2020-02-01T10:03:20.975+0000"),
+    "lon" : 77.5177757,
+    "place_id" : "ChIJF_CDDv0VrjsRZSYEiJYX8QE",
+    "city" : "Bangalore",
+    "id" : "13710",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.5177757,
+            12.9359899
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a393e3af086d6147bfcc"),
+    "city" : "Bangalore",
+    "place_id" : "ChIJGdNVAnlvrjsRzsVdlaDYxLE",
+    "name" : "Anekal",
+    "vicinity" : "Thali Road, Weaver Colony, Anekal",
+    "types" : [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "lon" : 77.69638259999999,
+    "lat" : 12.7090283,
+    "last_modified_date" : ISODate("2020-02-01T09:19:44.339+0000"),
+    "id" : "12211",
+    "rating" : 3.9,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.69638259999999,
+            12.7090283
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a479e3af086d6147c029"),
+    "types" : [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "HM Towers/Chiltern Bangalore",
+    "lon" : 77.60713729999999,
+    "lat" : 12.9714483,
+    "place_id" : "ChIJN5IpL34WrjsR88wpqOYbSw0",
+    "last_modified_date" : ISODate("2020-02-05T12:21:15.386+0000"),
+    "vicinity" : "Magrath Road Junction Brigade Road, Ashok Nagar, Ashok Nagar, Bengaluru",
+    "id" : "12248",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.60713729999999,
+            12.9714483
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a51ee3af086d6147c307"),
+    "types" : [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Channakeshava Temple",
+    "lon" : 77.7340741,
+    "lat" : 12.9212376,
+    "place_id" : "ChIJGyn0i4USrjsRbBnD7K4ClvQ",
+    "last_modified_date" : ISODate("2020-02-01T09:50:32.189+0000"),
+    "vicinity" : "Gunjur Village, Bengaluru",
+    "id" : "12699",
+    "rating" : 4.9,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.7340741,
+            12.9212376
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a524e3af086d6147c325"),
+    "types" : [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Hanuman Temple",
+    "lon" : 77.7371094,
+    "lat" : 12.9181952,
+    "place_id" : "ChIJy_J3IIUSrjsRvCk-mtnHYO4",
+    "last_modified_date" : ISODate("2020-02-01T09:50:32.189+0000"),
+    "vicinity" : "Gunjur Village, Bengaluru",
+    "id" : "12725",
+    "rating" : 4.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.7371094,
+            12.9181952
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a684e3af086d6147c978"),
+    "types" : [
+        "spa",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Happy Feet Fish Spa",
+    "lon" : 77.51772040000002,
+    "lat" : 12.9357226,
+    "place_id" : "ChIJIZda0vU-rjsRgTbA5x9OtAg",
+    "last_modified_date" : ISODate("2020-01-20T12:34:34.522+0000"),
+    "vicinity" : "Gopalan Arcade Mall Mysore Road,Rajarajeswari Nagar, Bengaluru",
+    "id" : "13697",
+    "rating" : 3.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.51772040000002,
+            12.9357226
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a670e3af086d6147c919"),
+    "types" : [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "New Ambur Hot Dum Biriyani",
+    "lon" : 77.6444588,
+    "lat" : 12.9602191,
+    "place_id" : "ChIJL29TDgUUrjsRC6yWkzmo-Mo",
+    "last_modified_date" : ISODate("2020-01-20T12:27:28.149+0000"),
+    "vicinity" : "23, H A L Old Airport Road, ISRO Colony, Domlur, Bengaluru",
+    "id" : "13640",
+    "rating" : 3.5,
+    "reviews_count" : NumberInt(4),
+    "location" : {
+        "coordinates" : [
+            77.6444588,
+            12.9602191
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a393e3af086d6147bfcb"),
+    "types" : [
+        "bar",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sanjay Bar and Restaurant",
+    "lon" : 77.6970013,
+    "lat" : 12.7086535,
+    "place_id" : "ChIJkWJg5HhvrjsRhvL2f2qYi3E",
+    "last_modified_date" : ISODate("2020-02-05T12:08:40.030+0000"),
+    "vicinity" : "Weaver Colony, Anekal",
+    "id" : "12210",
+    "rating" : 3.7,
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6970013,
+            12.7086535
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a682e3af086d6147c96d"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Water Ball",
+    "lon" : 77.517764,
+    "lat" : 12.9354461,
+    "place_id" : "ChIJ4xVcNF8-rjsRFSv6PWsdSYY",
+    "last_modified_date" : ISODate("2020-01-20T12:12:00.919+0000"),
+    "vicinity" : "G-12, Mysore Road, Kenchenhalli, RR Nagar, Bengaluru",
+    "id" : "13690",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "coordinates" : [
+            77.517764,
+            12.9354461
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a66be3af086d6147c905"),
+    "types" : [
+        "accounting",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Cavach Academy",
+    "lon" : 77.64478199999999,
+    "lat" : 12.960076,
+    "place_id" : "ChIJN0tiCQUUrjsRtbI2Wq5QlfE",
+    "last_modified_date" : ISODate("2020-02-05T12:01:36.965+0000"),
+    "vicinity" : "247/A, Brahmalingeshwara Complex, Above Dena bank,, Old Airport Road, HAL 3rd Stage, Bengaluru",
+    "id" : "13632",
+    "rating" : 4.9,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.64478199999999,
+            12.960076
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a674e3af086d6147c92c"),
+    "types" : [
+        "insurance_agency",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Swiss Re Healthcare Services Private Limited",
+    "lon" : 77.6444216,
+    "lat" : 12.9601414,
+    "place_id" : "ChIJBVO07-8TrjsR2yktRBrfigA",
+    "last_modified_date" : ISODate("2020-01-20T12:20:59.285+0000"),
+    "vicinity" : "23, Airport Road, Bengaluru",
+    "id" : "13652",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "coordinates" : [
+            77.6444216,
+            12.9601414
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a58be3af086d6147c4fb"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Madiwala Checkpost",
+    "lon" : 77.6133598,
+    "lat" : 12.9322002,
+    "place_id" : "ChIJx6YhJFIUrjsR2Wyld-3XVw8",
+    "last_modified_date" : ISODate("2020-01-20T12:09:25.542+0000"),
+    "vicinity" : "Suddagunte Palya, Bengaluru",
+    "id" : "13009",
+    "rating" : 3.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6133598,
+            12.9322002
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5a8e3af086d6147c581"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Printfield Digital Solutions",
+    "lon" : 77.6974462,
+    "lat" : 12.9424941,
+    "place_id" : "ChIJIbGjBS0SrjsRg21uP2-hbwE",
+    "last_modified_date" : ISODate("2020-02-05T12:14:16.430+0000"),
+    "vicinity" : "36/2,, Opp.J.P.Morgan., Outer Ring Road,, Marthalli, Bengaluru",
+    "id" : "13092",
+    "rating" : 3.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6974462,
+            12.9424941
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a664e3af086d6147c8e3"),
+    "types" : [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "SRI GOWRI HOTEL",
+    "lon" : 77.415269,
+    "lat" : 13.080877,
+    "place_id" : "ChIJv7Vj5BolrjsRXEyPUhhcOaY",
+    "last_modified_date" : ISODate("2020-01-20T12:28:09.577+0000"),
+    "vicinity" : "Chikkagollarahatti, Magadi Main Road, Bengaluru",
+    "id" : "13616",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "coordinates" : [
+            77.415269,
+            13.080877
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a66de3af086d6147c90c"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "HTMLDen - School of Web Design & Development",
+    "lon" : 77.64473699999999,
+    "lat" : 12.960041,
+    "place_id" : "ChIJkyA5CQUUrjsRiVBuGYHiiaY",
+    "last_modified_date" : ISODate("2020-02-05T12:24:29.036+0000"),
+    "vicinity" : "#493/3, Brahmalingeshwara complex, Above Dena bank, Old airport road, Kodihally, Bengaluru",
+    "id" : "13634",
+    "rating" : 4.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.64473699999999,
+            12.960041
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4cce3af086d6147c190"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "MYS JOBS",
+    "lon" : 77.6284809,
+    "lat" : 12.9071768,
+    "place_id" : "ChIJp-tKm-wUrjsRQv9JyDFWiqE",
+    "last_modified_date" : ISODate("2020-02-05T12:33:30.866+0000"),
+    "vicinity" : "#78/2, 3rd Floor, Circle,, Hosur Road, Bommanahalli, Bengaluru",
+    "id" : "12474",
+    "rating" : 4.2,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6284809,
+            12.9071768
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a516e3af086d6147c2e5"),
+    "types" : [
+        "beauty_salon",
+        "hair_care",
+        "spa",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Green Trends - Unisex Hair & Style Salon",
+    "lon" : 77.613135,
+    "lat" : 12.995868,
+    "place_id" : "ChIJb6a-BvQWrjsR0sECQx13uLE",
+    "last_modified_date" : ISODate("2020-02-05T12:35:52.472+0000"),
+    "vicinity" : "No.69,2nd Floor, Coles Cross Road,, Above BATA show room, Frazer Town, Bengaluru",
+    "id" : "12676",
+    "rating" : 4.1,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.613135,
+            12.995868
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4f6e3af086d6147c251"),
+    "types" : [
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "HDFC Bank C.V. Raman Nagar Branch",
+    "lon" : 77.6681037,
+    "lat" : 12.9855355,
+    "place_id" : "ChIJw7aAUkQRrjsR2vvWhfC2If4",
+    "last_modified_date" : ISODate("2020-02-05T12:15:50.171+0000"),
+    "vicinity" : "38, 1st Main Road, Varsova Layout, Kaggadasapura, Bengaluru",
+    "id" : "12585",
+    "rating" : 3.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6681037,
+            12.9855355
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a38fe3af086d6147bfbc"),
+    "types" : [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "lon" : 77.6974211,
+    "place_id" : "ChIJk95Z8HhvrjsRv4dbdX_bnH8",
+    "lat" : 12.7090182,
+    "last_modified_date" : ISODate("2020-02-01T09:01:04.271+0000"),
+    "city" : "Bangalore",
+    "vicinity" : "Bhajana Mana Street, Weaver Colony, Anekal",
+    "name" : "KidsNCribs, Anekal",
+    "id" : "12202",
+    "rating" : 4.5,
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "coordinates" : [
+            77.697406,
+            12.7090201
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a699e3af086d6147c9db"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "HuNet Technolgies LLP",
+    "lon" : 77.5527065,
+    "lat" : 12.9978596,
+    "place_id" : "ChIJ-TTKmY89rjsRt3YpVcOJBLM",
+    "last_modified_date" : ISODate("2020-01-20T12:19:50.486+0000"),
+    "vicinity" : "#625, 2nd Block, Dr. Rajkumar Road, Near Navarang Theatre, Rajajinagar,Bangalore - 560010.",
+    "id" : "13754",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "coordinates" : [
+            77.5527065,
+            12.9978596
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a576e3af086d6147c49f"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "CBCC Broadband Services - Hosur",
+    "lon" : 77.8301525,
+    "lat" : 12.7343256,
+    "place_id" : "ChIJAXkOQ8lwrjsRS0p2ApNYyEY",
+    "last_modified_date" : ISODate("2020-02-05T12:12:05.741+0000"),
+    "vicinity" : "201, Suseela complex, Krishnagiri Bye Pass, Hosur",
+    "id" : "12949",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(4),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.8301525,
+            12.7343256
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5a1e3af086d6147c561"),
+    "types" : [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Ganesh Temple",
+    "lon" : 77.6368403,
+    "lat" : 12.7867024,
+    "place_id" : "ChIJ_5C6zlhprjsRbALPH3X_VLQ",
+    "last_modified_date" : ISODate("2020-02-01T09:46:32.856+0000"),
+    "vicinity" : "State Highway 87, Jigani",
+    "id" : "13076",
+    "rating" : 3.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6368403,
+            12.7867024
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5ade3af086d6147c59b"),
+    "types" : [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "BERRYS HOTEL - PHG",
+    "lon" : 77.6970575,
+    "lat" : 12.9418152,
+    "place_id" : "ChIJmXhsZ7MTrjsRyyH5Yg-_r_8",
+    "last_modified_date" : ISODate("2020-02-05T12:05:02.939+0000"),
+    "vicinity" : "36, 1st Cross Road, Kadubeesanahalli, Marathahalli, Bengaluru",
+    "id" : "13108",
+    "rating" : 3.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6970575,
+            12.9418152
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5dae3af086d6147c66b"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "A K Plast",
+    "lon" : 77.55209359999999,
+    "lat" : 12.9740952,
+    "place_id" : "ChIJq4ni5vo9rjsRuuESxYiIrd8",
+    "last_modified_date" : ISODate("2020-02-05T12:05:17.864+0000"),
+    "vicinity" : "No 12, Magadi Main Road, Magadi Road, Near Prasanna Thtre, Magadi Road, Bengaluru",
+    "id" : "13218",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.55209359999999,
+            12.9740952
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4f1e3af086d6147c238"),
+    "types" : [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "MICO Layout",
+    "lon" : 77.6033041,
+    "lat" : 12.9167898,
+    "place_id" : "ChIJi_Im1QMVrjsRZRYXtCCXtTs",
+    "last_modified_date" : ISODate("2020-02-05T12:06:46.054+0000"),
+    "vicinity" : "Outer Ring Road, KEB Colony, Vysya Bank Colony, Stage 2, BTM 2nd Stage, Bengaluru",
+    "id" : "12572",
+    "rating" : 3.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6033041,
+            12.9167898
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a66ee3af086d6147c910"),
+    "types" : [
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Dena Bank",
+    "lon" : 77.6446744,
+    "lat" : 12.9600198,
+    "place_id" : "ChIJt8dwCQUUrjsRMbQokHpISWw",
+    "last_modified_date" : ISODate("2020-02-05T12:04:24.819+0000"),
+    "vicinity" : "HAL 2nd Stage, 247/A, H A L Old Airport Road, ISRO Colony, Kodihalli, Bengaluru",
+    "id" : "13636",
+    "rating" : 4.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6446744,
+            12.9600198
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a52ce3af086d6147c34b"),
+    "types" : [
+        "bar",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Garden Bar",
+    "lon" : 77.66842770000001,
+    "lat" : 12.9192703,
+    "place_id" : "ChIJ8_MbL3ETrjsR9j5Hx45gTNw",
+    "last_modified_date" : ISODate("2020-01-20T12:07:30.809+0000"),
+    "vicinity" : "Sarjapur Main Road, Bellandur, Bengaluru",
+    "id" : "12748",
+    "rating" : 3.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.66842770000001,
+            12.9192703
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a38be3af086d6147bfaa"),
+    "city" : "Bangalore",
+    "lat" : 12.709195,
+    "types" : [
+        "atm",
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "lon" : 77.696908,
+    "last_modified_date" : ISODate("2020-02-05T12:03:26.327+0000"),
+    "name" : "ICICI BANK ATM",
+    "vicinity" : "Ksrtc Bus Stand, Taluk Office Road, Anekal",
+    "place_id" : "ChIJe-yq_nhvrjsR7Rz8Z_ghsiE",
+    "id" : "12192",
+    "rating" : 2.5,
+    "reviews_count" : NumberInt(4),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.696908,
+            12.709195
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a389e3af086d6147bfa5"),
+    "types" : [
+        "bar",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Aishwairya Bar and Restaurant",
+    "lon" : 77.6971196,
+    "lat" : 12.7094096,
+    "place_id" : "ChIJR9pQ-HhvrjsRD5GG_A_6f64",
+    "last_modified_date" : ISODate("2020-01-20T12:07:15.056+0000"),
+    "vicinity" : "Vinayaka Nagar, Anekal",
+    "id" : "12189",
+    "rating" : 3.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6971196,
+            12.7094096
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a38de3af086d6147bfb3"),
+    "types" : [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Annapurneshwari Theatre",
+    "lon" : 77.6979075,
+    "lat" : 12.7100026,
+    "place_id" : "ChIJOeml_3hvrjsR2GkzpIMMvWA",
+    "last_modified_date" : ISODate("2020-02-01T10:03:17.633+0000"),
+    "vicinity" : "bus stand, near, Anekal",
+    "id" : "12195",
+    "rating" : 3.1,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6979075,
+            12.7100026
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5c0e3af086d6147c5f2"),
+    "types" : [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Ants Salon, Women And Kids",
+    "lon" : 77.67703589999999,
+    "lat" : 12.9844045,
+    "place_id" : "ChIJlY5lI2gRrjsRpgFnuZ-7CL4",
+    "last_modified_date" : ISODate("2020-02-05T12:10:05.126+0000"),
+    "vicinity" : "13th Cross Road, Bengaluru",
+    "id" : "13154",
+    "rating" : 4.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.67703589999999,
+            12.9844045
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a68de3af086d6147c99f"),
+    "types" : [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "RR Nagar Arch",
+    "lon" : 77.5183735,
+    "lat" : 12.9361036,
+    "place_id" : "ChIJk1gfJV8-rjsRFCysBx60gl8",
+    "last_modified_date" : ISODate("2020-01-20T12:09:18.779+0000"),
+    "vicinity" : "Kenchena Halli Rd, Kenchenhalli, RR Nagar, Bengaluru",
+    "id" : "13713",
+    "rating" : 4.2,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.5183735,
+            12.9361036
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5dae3af086d6147c667"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Inventateq, MAGADI road",
+    "lon" : 77.55210029999999,
+    "lat" : 12.9745275,
+    "place_id" : "ChIJ5SgH6fo9rjsRqBNwCL0VkgM",
+    "last_modified_date" : ISODate("2020-02-05T12:16:54.555+0000"),
+    "vicinity" : "No. 16, 1st Floor, Rajajinagar 6th Block, Magadi Main Road, Near Prasanna Theatre, Bengaluru",
+    "id" : "13215",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.55210029999999,
+            12.9745275
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a56fe3af086d6147c47d"),
+    "types" : [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Reddy Tours & Travels",
+    "lon" : 77.786709,
+    "lat" : 13.07332,
+    "place_id" : "ChIJ5VYLOHkFrjsRUeq0nSLq6V8",
+    "last_modified_date" : ISODate("2020-02-05T12:02:38.018+0000"),
+    "vicinity" : "Shop No, 2, Below Canara Bank Building, T G Extn Hoskote, Bengaluru",
+    "id" : "12931",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.786709,
+            13.07332
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a590e3af086d6147c513"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Balaji Electronics",
+    "lon" : 77.592477,
+    "lat" : 13.072884,
+    "place_id" : "ChIJYwoiuTsYrjsRchN4DlSHpE8",
+    "last_modified_date" : ISODate("2020-02-05T12:32:08.524+0000"),
+    "vicinity" : "1st Main Chikka Papanna Building, chikkabommasandra, G. K. V. K. Post, Bangalore, Yelahanka, Bengaluru",
+    "id" : "13029",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.592477,
+            13.072884
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4eee3af086d6147c22a"),
+    "types" : [
+        "bank",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Kotak Mahindra Bank ATM",
+    "lon" : 77.603999,
+    "lat" : 12.916712,
+    "place_id" : "ChIJs7eM2AMVrjsRUyBRG9aQNVk",
+    "last_modified_date" : ISODate("2020-01-20T12:18:18.764+0000"),
+    "vicinity" : "Ground Floor, Corporation No. 93, Vysya Griha Nirmana Sahakara Sangha Layout,, BTM Layout 1, Bengaluru",
+    "id" : "12563",
+    "rating" : 3.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.603999,
+            12.916712
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a66ae3af086d6147c8fe"),
+    "types" : [
+        "bar",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Mookambika Bar and Restaurant",
+    "lon" : 77.6446271,
+    "lat" : 12.9602227,
+    "place_id" : "ChIJ8wj5DgUUrjsRKAkiEtppSFA",
+    "last_modified_date" : ISODate("2020-02-05T12:00:50.797+0000"),
+    "vicinity" : "Old Airport Road, Shop No : 22, H A L Old Airport Road, Old Airport Road, ISRO Colony, Domlur, Bengaluru",
+    "id" : "13627",
+    "rating" : 3.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6446271,
+            12.9602227
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4f6e3af086d6147c24f"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Centre for Artificial Intelligence and Robotics",
+    "lon" : 77.66842129999999,
+    "lat" : 12.9867179,
+    "place_id" : "ChIJhy4wKEQRrjsRLfiX-Q2cE00",
+    "last_modified_date" : ISODate("2020-02-05T12:18:03.042+0000"),
+    "vicinity" : "DRDO Complex, CV Raman Nagar, Bengaluru",
+    "id" : "12583",
+    "rating" : 4.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.66842129999999,
+            12.9867179
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a521e3af086d6147c315"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Moto Taxi Services",
+    "lon" : 77.73659099999999,
+    "lat" : 12.9191249,
+    "place_id" : "ChIJa0rCH4USrjsROH-K37FA8u4",
+    "last_modified_date" : ISODate("2020-01-20T12:20:20.533+0000"),
+    "vicinity" : "Near Shanimahatma Temple. Hoskote Main Road., Gunjur, Bengaluru",
+    "id" : "12712",
+    "rating" : 4.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.73659099999999,
+            12.9191249
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a680e3af086d6147c965"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Meghana Consultancy",
+    "lon" : 77.62180649999999,
+    "lat" : 12.9736391,
+    "place_id" : "ChIJXTu4w7AWrjsRVo_p-j_NbHs",
+    "last_modified_date" : ISODate("2020-02-05T12:07:24.215+0000"),
+    "vicinity" : "113/4, Erappa Garden, Old Madras Road, D, Ulsoor, Ulsoor, Bengaluru",
+    "id" : "13685",
+    "rating" : 3.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.62180649999999,
+            12.9736391
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a580e3af086d6147c4c9"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Kaveri Agri Products",
+    "lon" : 77.82856699999999,
+    "lat" : 12.735061,
+    "place_id" : "ChIJSQ6nLslwrjsRCZVhcMTmE9c",
+    "last_modified_date" : ISODate("2020-02-05T12:07:40.995+0000"),
+    "vicinity" : "No 2 DDC Building, By Pass Road,Near Hosur Bus stand, Hosur",
+    "id" : "12968",
+    "rating" : 4.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.82856699999999,
+            12.735061
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4fae3af086d6147c265"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sai Sarovar Complex",
+    "lon" : 77.667879,
+    "lat" : 12.985165,
+    "place_id" : "ChIJjxVaq0URrjsRg_N4GcEniyo",
+    "last_modified_date" : ISODate("2020-01-20T12:36:12.847+0000"),
+    "vicinity" : "Kaggadasapura Main Road, Varsova Layout, Kaggadasapura, Bengaluru",
+    "id" : "12598",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "coordinates" : [
+            77.667879,
+            12.985165
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a590e3af086d6147c514"),
+    "types" : [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "GKVK",
+    "lon" : 77.592409,
+    "lat" : 13.0730296,
+    "place_id" : "ChIJ-QoiuTsYrjsROSSzhUNYNLg",
+    "last_modified_date" : ISODate("2020-02-05T12:06:24.057+0000"),
+    "vicinity" : "Yashoda Nagar, Yelahanka, Bengaluru",
+    "id" : "13030",
+    "rating" : 4.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.592409,
+            13.0730296
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a68de3af086d6147c9a0"),
+    "types" : [
+        "car_wash",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Pluto Carz",
+    "lon" : 77.517578,
+    "lat" : 12.936009,
+    "place_id" : "ChIJHUqPOF8-rjsRkjjS2Ek8D1Q",
+    "last_modified_date" : ISODate("2020-02-05T12:09:40.659+0000"),
+    "vicinity" : "Mysore Road, Kenchenhalli, RR Nagar, Bengaluru",
+    "id" : "13714",
+    "rating" : 4.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.517578,
+            12.936009
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a523e3af086d6147c31f"),
+    "types" : [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "ISTHAA ACADAMY",
+    "lon" : 77.73679349999999,
+    "lat" : 12.9240328,
+    "place_id" : "ChIJiemkiYYSrjsRRdu_9H_kU4o",
+    "last_modified_date" : ISODate("2020-02-05T12:35:31.034+0000"),
+    "vicinity" : "Halasahalli, Bengaluru",
+    "id" : "12722",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.73679349999999,
+            12.9240328
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a527e3af086d6147c332"),
+    "lat" : 12.9190833,
+    "types" : [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "name" : "Big Bazaar Express",
+    "vicinity" : "Sarjapur Main Road, Bellandur, Bengaluru",
+    "last_modified_date" : ISODate("2020-02-05T12:19:12.553+0000"),
+    "lon" : 77.668837,
+    "place_id" : "ChIJfQubOnETrjsRGEuozptg0TA",
+    "city" : "Bangalore",
+    "id" : "12734",
+    "rating" : 3.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.668837,
+            12.9190833
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a571e3af086d6147c484"),
+    "types" : [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Dhruva Nursing Home",
+    "lon" : 77.7867286,
+    "lat" : 13.072881,
+    "place_id" : "ChIJq9q-T3kFrjsR1u71W7t6sfY",
+    "last_modified_date" : ISODate("2020-02-05T12:26:45.254+0000"),
+    "vicinity" : "#78d K R Road, Near S.B.I Dist, Hoskote",
+    "id" : "12935",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.7867286,
+            13.072881
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5eee3af086d6147c6c7"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "YSR Skylines",
+    "lon" : 77.6887947,
+    "lat" : 12.9867336,
+    "place_id" : "ChIJR3jhxHERrjsRZefdCqQk2NY",
+    "last_modified_date" : ISODate("2020-02-05T12:06:09.321+0000"),
+    "vicinity" : "YSR Skylines,, 6, Service Road, Venkateshwara Layout, Chinappa Layout, Mahadevapura, Bengaluru",
+    "id" : "13285",
+    "rating" : 3.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6887947,
+            12.9867336
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a560e3af086d6147c438"),
+    "types" : [
+        "school",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Purple Buds International Kindergarten & Activity Centre",
+    "lon" : 77.6613107,
+    "lat" : 13.0263214,
+    "place_id" : "ChIJH9Dh2tEQrjsRESH7X5heY_Y",
+    "last_modified_date" : ISODate("2020-02-05T12:26:34.830+0000"),
+    "vicinity" : "560016, Brindavan Layout, Ashirvad Colony, Horamavu, Bengaluru",
+    "id" : "12896",
+    "rating" : 4.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6613107,
+            13.0263214
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a689e3af086d6147c991"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Rangeela",
+    "lon" : 77.51756019999999,
+    "lat" : 12.9358404,
+    "place_id" : "ChIJIb_cN18-rjsR7TBH6YDOFbE",
+    "last_modified_date" : ISODate("2020-01-20T12:05:41.768+0000"),
+    "vicinity" : "Mysore Road, ITI Layout 3rd Phase, Phase 3, Nayanda Halli, Bengaluru",
+    "id" : "13709",
+    "rating" : NumberInt(2),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "coordinates" : [
+            77.51756019999999,
+            12.9358404
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a4f1e3af086d6147c239"),
+    "types" : [
+        "beauty_salon",
+        "hair_care",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Ankita Men's Salon",
+    "lon" : 77.668717,
+    "lat" : 12.985917,
+    "place_id" : "ChIJAUvhRUQRrjsRXM9SysjU0HE",
+    "last_modified_date" : ISODate("2020-01-20T12:07:45.881+0000"),
+    "vicinity" : "103/1-3, 29th Cross, Balaji Layout, Kaggadasapura, Opposite-Priyanka Presidency, C V Raman Nagar, Bengaluru",
+    "id" : "12573",
+    "rating" : 3.7,
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "coordinates" : [
+            77.668717,
+            12.985917
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a663e3af086d6147c8df"),
+    "types" : [
+        "hindu_temple",
+        "tourist_attraction",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sri Vishwaroopa Vijaya Vittala Devastana",
+    "lon" : 77.415793,
+    "lat" : 13.0807885,
+    "place_id" : "ChIJMwx8HhslrjsRGH1gWKsFQA4",
+    "last_modified_date" : ISODate("2020-02-01T09:51:22.573+0000"),
+    "vicinity" : "Tumkur Rd, Vijaya Vittala Nagar, Arasanakunte, Nelamangala Taluk, Bengaluru",
+    "id" : "13615",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.415793,
+            13.0807885
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a698e3af086d6147c9d6"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "IBPS PO/CLERK COACHING IN HEBBAL BANGALORE",
+    "lon" : 77.55350899999999,
+    "lat" : 12.997574,
+    "place_id" : "ChIJ6WW8Cj0XrjsRfM_18gLgof8",
+    "last_modified_date" : ISODate("2020-02-05T12:26:18.234+0000"),
+    "vicinity" : "9/1, Dr Rajkumar Road, Mariappanapalya, Rajajinagar, Bengaluru",
+    "id" : "13751",
+    "rating" : 4.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.55350899999999,
+            12.997574
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a38fe3af086d6147bfba"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sri Vishnu Rewinding Works",
+    "lon" : 77.6970412,
+    "lat" : 12.7098521,
+    "place_id" : "ChIJOW7FVnhvrjsR7S8zDkgt8wE",
+    "last_modified_date" : ISODate("2020-02-05T12:17:09.370+0000"),
+    "vicinity" : "No. 57/11, Waeezulla Shariff Street, KSRTC Colony, Anekal",
+    "id" : "12200",
+    "rating" : 4.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6970412,
+            12.7098521
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a67be3af086d6147c94d"),
+    "types" : [
+        "dentist",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Deepak Dental Diagnostic Centre",
+    "lon" : 77.62113300000001,
+    "lat" : 12.9726,
+    "place_id" : "ChIJ5xD7qjkRrjsR5JFkWb5TVRQ",
+    "last_modified_date" : ISODate("2020-02-05T12:06:05.838+0000"),
+    "vicinity" : "9, Trinity Church Complex, Old Madras Road, Near-Ulsoor Police Station, Ulsoor, Bengaluru",
+    "id" : "13666",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.62113300000001,
+            12.9726
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a59ae3af086d6147c544"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Doosan Infracore Co Limited",
+    "lon" : 77.5928634,
+    "lat" : 13.070425,
+    "place_id" : "ChIJAQAAACMSrjsRMP26kkNDEEs",
+    "last_modified_date" : ISODate("2020-02-05T12:29:26.630+0000"),
+    "vicinity" : "106/10-11-12, Bellary Road, Mekhri Circle, Kundalahalli, Bellary Road, Bengaluru",
+    "id" : "13064",
+    "rating" : 3.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.5928634,
+            13.070425
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a696e3af086d6147c9ca"),
+    "types" : [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Navrang Theatre",
+    "lon" : 77.5527967,
+    "lat" : 12.9978448,
+    "place_id" : "ChIJm3VQmY89rjsRWpSZqRRy07w",
+    "last_modified_date" : ISODate("2020-01-20T12:16:31.539+0000"),
+    "vicinity" : "1762, Doctor Rajkumar Road, Mariappanapalya, Rajaji Nagar, Bengaluru",
+    "id" : "13743",
+    "rating" : 3.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.5527967,
+            12.9978448
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5dfe3af086d6147c67f"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Prasanna Upahar",
+    "lon" : 77.5523508,
+    "lat" : 12.9748179,
+    "place_id" : "ChIJGUNo7Po9rjsRHIKhEmi3GR4",
+    "last_modified_date" : ISODate("2020-01-20T12:26:50.979+0000"),
+    "vicinity" : "Magadi Main Road, Cholur Palya, Bengaluru",
+    "id" : "13233",
+    "rating" : 3.3,
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "coordinates" : [
+            77.5523508,
+            12.9748179
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a68be3af086d6147c997"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "I.F.O",
+    "lon" : 77.5175347,
+    "lat" : 12.9359162,
+    "place_id" : "ChIJ4Vf5N18-rjsRV-yc5-Az9yw",
+    "last_modified_date" : ISODate("2020-01-20T12:00:38.662+0000"),
+    "vicinity" : "No.447/1812, Near Rajarajeshwari Nagar Gate, 1ST Block, Pantharapalya, Mysore Road, Rajarajeshwari Nagar, Bangalore - 560098, Kenchena Halli Road, Kenchenhalli, RR Nagar, Bengaluru",
+    "id" : "13711",
+    "rating" : 3.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.5175347,
+            12.9359162
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a589e3af086d6147c4f3"),
+    "types" : [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "PayWheel - Payroll Software Solution",
+    "lon" : 77.61514,
+    "lat" : 12.930395,
+    "place_id" : "ChIJo2ZH-kIUrjsRzCzmjpbHq5E",
+    "last_modified_date" : ISODate("2020-02-05T12:11:16.289+0000"),
+    "vicinity" : "# 144, Sri Aditya Industrial Estate, 5th Block, Koramangala, Hosur Main Road, Bengalore",
+    "id" : "13004",
+    "rating" : 4.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.61514,
+            12.930395
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a390e3af086d6147bfbe"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "New Sm Arts",
+    "lon" : 77.6974157,
+    "lat" : 12.7098093,
+    "place_id" : "ChIJ2XqjWXhvrjsRFj5O6PNzthw",
+    "last_modified_date" : ISODate("2020-02-05T12:23:40.837+0000"),
+    "vicinity" : "Vinayaka Nagar, Anekal",
+    "id" : "12203",
+    "rating" : 4.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6974157,
+            12.7098093
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a67ee3af086d6147c95b"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Holy Trinity Women Hostel",
+    "lon" : 77.6213211,
+    "lat" : 12.9721467,
+    "place_id" : "ChIJe7_I75wWrjsRH_RSQ5a1yMI",
+    "last_modified_date" : ISODate("2020-02-05T12:27:05.754+0000"),
+    "vicinity" : "Holy Trinity Church compound, Trinity Church Road, Gowthamapuram, Ulsoor, Bengaluru",
+    "id" : "13677",
+    "rating" : 3.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6213211,
+            12.9721467
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a532e3af086d6147c367"),
+    "types" : [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Lord Shiva Temple",
+    "lon" : 77.590722,
+    "lat" : 13.0424874,
+    "place_id" : "ChIJif99Y5EXrjsRZW0ywdvJYj0",
+    "last_modified_date" : ISODate("2020-02-01T09:52:01.092+0000"),
+    "vicinity" : "Bellary Slip Road, Subramani Nagar, Hebbal, Bengaluru",
+    "id" : "12768",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.590722,
+            13.0424874
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a55ce3af086d6147c424"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sabrish Packaging Associates",
+    "lon" : 77.6608341,
+    "lat" : 13.0265715,
+    "place_id" : "ChIJVVVVVSgXrjsRUNaK3LFQJf0",
+    "last_modified_date" : ISODate("2020-01-20T12:10:04.517+0000"),
+    "vicinity" : "No. 36, Dalichandra- B Street, 9th Cross, Nisarga Colony, 10th Main Horamavu, Banasawadi, Bengaluru",
+    "id" : "12883",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "coordinates" : [
+            77.6608341,
+            13.0265715
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a5d5e3af086d6147c654"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "BIRDS - Sacred Heart Brothers",
+    "lon" : 77.646014,
+    "lat" : 13.050152,
+    "place_id" : "ChIJEwR8llEXrjsRH5uzalQDbX4",
+    "last_modified_date" : ISODate("2020-02-05T12:06:35.756+0000"),
+    "vicinity" : "Hennur Bagalur Road, Byrathi, Bengaluru",
+    "id" : "13206",
+    "rating" : 4.2,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.646014,
+            13.050152
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4f2e3af086d6147c240"),
+    "types" : [
+        "beauty_salon",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Naturals",
+    "lon" : 77.66871069999999,
+    "lat" : 12.9858156,
+    "place_id" : "ChIJ529bREQRrjsRw4EjSlWtyGc",
+    "last_modified_date" : ISODate("2020-02-05T12:04:18.261+0000"),
+    "vicinity" : "91, 1st Floor, Kaggadasapura Main Rd, Above Coffee Day, C V Raman Nagar, Bengaluru",
+    "id" : "12576",
+    "rating" : 3.9,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.66871069999999,
+            12.9858156
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5dde3af086d6147c676"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Nityashree Scientific Corpn",
+    "lon" : 77.5511399,
+    "lat" : 12.9741714,
+    "place_id" : "ChIJz-6PM_g9rjsRfcM6pwbiGys",
+    "last_modified_date" : ISODate("2020-01-20T12:14:43.842+0000"),
+    "vicinity" : "30/1, 7th Cross, Magadi Road, Bengaluru",
+    "id" : "13225",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "coordinates" : [
+            77.5511399,
+            12.9741714
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a589e3af086d6147c4f2"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Saint Anthonys Cellar Hall",
+    "lon" : 77.61413139999999,
+    "lat" : 12.9299071,
+    "place_id" : "ChIJ91AOXVEUrjsRhbZuLbd8GnM",
+    "last_modified_date" : ISODate("2020-01-20T12:16:02.816+0000"),
+    "vicinity" : "Kaveri Layout, Suddagunte Palya, Bengaluru",
+    "id" : "13003",
+    "rating" : NumberInt(2),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "coordinates" : [
+            77.61413139999999,
+            12.9299071
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a399e3af086d6147bfe9"),
+    "types" : [
+        "gas_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "IOC - Sri Keshava Fuel Park",
+    "lon" : 77.56465899999999,
+    "lat" : 12.862164,
+    "place_id" : "ChIJN00Cs6dqrjsR5nGXUrLa5eI",
+    "last_modified_date" : ISODate("2020-02-05T12:13:26.106+0000"),
+    "vicinity" : "Anjanapura Post, Bangalore Urban, Gollahalli",
+    "id" : "12224",
+    "rating" : 3.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.56465899999999,
+            12.862164
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a528e3af086d6147c339"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Fix The Device",
+    "lon" : 77.66897589999999,
+    "lat" : 12.9190724,
+    "place_id" : "ChIJcXeeOnETrjsRY8CAbowhaRQ",
+    "last_modified_date" : ISODate("2020-01-20T12:30:44.497+0000"),
+    "vicinity" : "#10/4 Ambalipura, Bellandur gate, Sarjapur Road next to Big Bazaar, Bengaluru",
+    "id" : "12736",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.66897589999999,
+            12.9190724
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a531e3af086d6147c35e"),
+    "types" : [
+        "doctor",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "DR HASIT MEHTA'S CLINIC",
+    "lon" : 77.66974069999999,
+    "lat" : 12.9187804,
+    "place_id" : "ChIJE3_eQ3ETrjsRJya3C1BpHe8",
+    "last_modified_date" : ISODate("2020-01-20T12:29:02.103+0000"),
+    "vicinity" : "18, Bellandur Main Road, Bellandur, Bengaluru",
+    "id" : "12761",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.66974069999999,
+            12.9187804
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a59ce3af086d6147c54d"),
+    "types" : [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "axis bank ATM, Jigani",
+    "lon" : 77.6382646,
+    "lat" : 12.7863283,
+    "place_id" : "ChIJ_x3Q5VhprjsRe-CI4pUkH8M",
+    "last_modified_date" : ISODate("2020-02-05T12:05:36.295+0000"),
+    "vicinity" : "Jigani",
+    "id" : "13068",
+    "rating" : 2.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6382646,
+            12.7863283
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5dbe3af086d6147c66d"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "HOYSALA SPORTS",
+    "lon" : 77.551992,
+    "lat" : 12.974853,
+    "place_id" : "ChIJM6DSGJM9rjsRdNWc2JAXxx8",
+    "last_modified_date" : ISODate("2020-02-05T12:28:16.899+0000"),
+    "vicinity" : "# 213\\A, 76th cross, opposite to prasanna theater,, 6th Block RajajiNagar,, Bengaluru",
+    "id" : "13219",
+    "rating" : 4.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.551992,
+            12.974853
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5efe3af086d6147c6cc"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "QUALDE DIGITAL SERVICES PVT LTD.",
+    "lon" : 77.6884527,
+    "lat" : 12.9872132,
+    "place_id" : "ChIJQb_z53ERrjsRNTJlsj4rqmk",
+    "last_modified_date" : ISODate("2020-02-05T12:02:43.519+0000"),
+    "vicinity" : "Nester Raga Apts, Unit - 4, C - Block, Ground Floor, Outer Ring Road, Mahadevapura, Bengaluru",
+    "id" : "13287",
+    "rating" : 4.4,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6884527,
+            12.9872132
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a696e3af086d6147c9c9"),
+    "types" : [
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Star Bazar Rajji Nagar",
+    "lon" : 77.5527967,
+    "lat" : 12.9978448,
+    "place_id" : "ChIJNylVmI89rjsRSh195v-ypck",
+    "last_modified_date" : ISODate("2020-01-20T12:16:34.661+0000"),
+    "vicinity" : "Navrang Cinema Road, Vadodara",
+    "id" : "13742",
+    "rating" : 4.5,
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "coordinates" : [
+            77.5527967,
+            12.9978448
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a69ae3af086d6147c9dc"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Preethi Service Center",
+    "lon" : 77.5531843,
+    "lat" : 12.9983283,
+    "place_id" : "ChIJd00hnY89rjsRAsqdRXUp7ss",
+    "last_modified_date" : ISODate("2020-01-20T12:23:12.046+0000"),
+    "vicinity" : "2957, 58/25, Basement, Gulat Plaza,2nd Stage, MKK Road, Rajaji Nagar, Bengaluru",
+    "id" : "3",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.5531843,
+            12.9983283
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a578e3af086d6147c4a8"),
+    "types" : [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Windshield Professional (Automobile Glass Dealers)",
+    "lon" : 77.8304033,
+    "lat" : 12.734476,
+    "place_id" : "ChIJPT9fW8lwrjsRERNwidX7LxU",
+    "last_modified_date" : ISODate("2020-02-05T12:33:31.703+0000"),
+    "vicinity" : "No: 198, Krishnagiri Bye Pass Road, Near Fish Market & Opp to HDFC Bank, Hosur",
+    "id" : "12955",
+    "rating" : 4.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.8304033,
+            12.734476
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5e1e3af086d6147c68a"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "SADHANA COACHING CENTRE",
+    "lon" : 77.5520567,
+    "lat" : 12.9752164,
+    "place_id" : "ChIJ2ayplfo9rjsR0PIG9TVvgjo",
+    "last_modified_date" : ISODate("2020-01-05T12:36:55.613+0000"),
+    "vicinity" : "Ravi Complex, MC Layout, Rajaji Nagar, Bengaluru",
+    "id" : "13239",
+    "rating" : 4.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.5520567,
+            12.9752164
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a573e3af086d6147c48f"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Patel Narayana Gowda Kalyana Mantapa",
+    "lon" : 77.7857104,
+    "lat" : 13.0730122,
+    "place_id" : "ChIJX3MpTnkFrjsRf6lf-arL3Uc",
+    "last_modified_date" : ISODate("2020-02-05T12:34:14.857+0000"),
+    "vicinity" : "Kammavari Pete, Hoskote",
+    "id" : "12942",
+    "rating" : 3.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.7857104,
+            13.0730122
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a38fe3af086d6147bfbb"),
+    "city" : "Bangalore",
+    "place_id" : "ChIJ30si-3hvrjsRarjuH_lUE18",
+    "name" : "Anekal Post office",
+    "vicinity" : "Weaver Colony, Anekal",
+    "types" : [
+        "post_office",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "lon" : 77.697065,
+    "lat" : 12.708922,
+    "last_modified_date" : ISODate("2020-02-05T12:13:08.366+0000"),
+    "id" : "12201",
+    "rating" : 3.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.697065,
+            12.708922
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a683e3af086d6147c975"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Paint Bali",
+    "lon" : 77.5177242,
+    "lat" : 12.9356885,
+    "place_id" : "ChIJS6-MNl8-rjsR2V7QAnRZ4fo",
+    "last_modified_date" : ISODate("2020-02-05T12:33:54.026+0000"),
+    "vicinity" : "Kenchena Halli Road, Kenchenhalli, RR Nagar, Bengaluru",
+    "id" : "13694",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.5177242,
+            12.9356885
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5d7e3af086d6147c659"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Vani's Crockery World",
+    "lon" : 77.6458354,
+    "lat" : 13.0499084,
+    "place_id" : "ChIJhb9FxlEXrjsRSzb4h_TUtjs",
+    "last_modified_date" : ISODate("2020-02-05T12:33:11.934+0000"),
+    "vicinity" : "23 Idhaya Complex Hennur Road, Geddalahalli, Kothnor, Bengaluru",
+    "id" : "13208",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6458354,
+            13.0499084
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a661e3af086d6147c8d5"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Akshobhya Murals & Art Gallery",
+    "lon" : 77.4138579,
+    "lat" : 13.0861488,
+    "place_id" : "ChIJ6xslmgUlrjsRUuenx1oavO8",
+    "last_modified_date" : ISODate("2020-02-05T12:34:48.026+0000"),
+    "vicinity" : "#210/A, BH Road, Beside BML House, Binnamangala, Arishina Kunte Post, Nelamangala, Bangalore",
+    "id" : "13607",
+    "rating" : 4.7,
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.4138579,
+            13.0861488
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a578e3af086d6147c4a4"),
+    "types" : [
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Muthoot Fincorp Limited",
+    "lon" : 77.8296,
+    "lat" : 12.7352,
+    "place_id" : "ChIJFUMLSslwrjsRgSOLJG31aRE",
+    "last_modified_date" : ISODate("2020-02-05T12:24:42.188+0000"),
+    "vicinity" : "D/No:68/N9 First Floor,, Bagalur Road",
+    "id" : "12952",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.8296,
+            12.7352
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a51fe3af086d6147c30c"),
+    "types" : [
+        "hospital",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Gunjur Primary Health Centre PHC",
+    "lon" : 77.7362484,
+    "lat" : 12.9228391,
+    "place_id" : "ChIJLT-f1oUSrjsRSGAg6UR92iw",
+    "last_modified_date" : ISODate("2020-05-01T08:35:14.250+0000"),
+    "vicinity" : "Gunjur, Bengaluru",
+    "id" : "12704",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.7362484,
+            12.9228391
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a528e3af086d6147c338"),
+    "types" : [
+        "bar",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Chakra Diner and Bar",
+    "lon" : 77.6688096,
+    "lat" : 12.9191223,
+    "place_id" : "ChIJYRILMHETrjsRSuZxAOZL_OM",
+    "last_modified_date" : ISODate("2020-01-20T12:27:37.157+0000"),
+    "vicinity" : "9/2 Coronet Green Commercial, 4th Floor, Above Big Bazaar, Sarjapur Main Road, Bellandur, Bengaluru",
+    "id" : "12735",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6688096,
+            12.9191223
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a58fe3af086d6147c50d"),
+    "vicinity" : "Jakkur Main Road, Yashoda Nagar, Bengaluru",
+    "place_id" : "ChIJC79xxjsYrjsRG2MhhmL4laM",
+    "lat" : 13.0734101,
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "lon" : 77.59262749999999,
+    "name" : "Aquaguard office",
+    "last_modified_date" : ISODate("2020-01-20T12:12:34.834+0000"),
+    "id" : "13025",
+    "rating" : 3.2,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.59262749999999,
+            13.0734101
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a51ee3af086d6147c309"),
+    "types" : [
+        "atm",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Axis Bank ATM",
+    "lon" : 77.734099,
+    "lat" : 12.920922,
+    "place_id" : "ChIJEQGyiIUSrjsRZNAGUvYVTl8",
+    "last_modified_date" : ISODate("2020-02-05T12:14:19.453+0000"),
+    "vicinity" : "SYMPHONY MARKETING SOLAXISONS (P) LTD SALARPURAI SOFTZONE BLOCK B SURVEY NO 80/1, Bengaluru",
+    "id" : "12701",
+    "rating" : 1.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.734099,
+            12.920922
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a568e3af086d6147c45c"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "R.R Color Lab & Studio",
+    "lon" : 77.7866219,
+    "lat" : 13.0722924,
+    "place_id" : "ChIJif__y34FrjsR_D03exNtX1Y",
+    "last_modified_date" : ISODate("2020-02-05T12:20:46.122+0000"),
+    "vicinity" : "KEB CIRCLE, K.E.B ,Hosakote, Bangalore, Bengaluru",
+    "id" : "12916",
+    "rating" : 4.1,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.7866219,
+            13.0722924
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a69ce3af086d6147c9e6"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "O M R - Your Choice",
+    "lon" : 77.677617,
+    "lat" : 13.011517,
+    "place_id" : "ChIJTa8ORh8RrjsRWChniDb3Sn0",
+    "last_modified_date" : ISODate("2020-02-05T12:23:00.744+0000"),
+    "vicinity" : "Ramamurthinagar Main Road, Near-Dooravani Medical, Ramamurthy Nagar, Bengaluru",
+    "id" : "8",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(3),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.677617,
+            13.011517
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a521e3af086d6147c317"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Vahe Imperial Gardens",
+    "lon" : 77.73708789999999,
+    "lat" : 12.9233871,
+    "place_id" : "ChIJg2pEgYYSrjsRSXq1stxXlZY",
+    "last_modified_date" : ISODate("2020-01-20T12:06:31.489+0000"),
+    "vicinity" : "State Highway 35, Gunjur, Bengaluru",
+    "id" : "12714",
+    "rating" : 3.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.73708789999999,
+            12.9233871
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a522e3af086d6147c31d"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "MVR Residency",
+    "lon" : 77.7350491,
+    "lat" : 12.9183906,
+    "place_id" : "ChIJm_YkR4USrjsRucOe9XdTLJk",
+    "last_modified_date" : ISODate("2020-02-05T12:22:21.885+0000"),
+    "vicinity" : "Gunjur, Bengaluru",
+    "id" : "12720",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.7350491,
+            12.9183906
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a587e3af086d6147c4e9"),
+    "types" : [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Annemma Temple",
+    "lon" : 77.6130531,
+    "lat" : 12.9310105,
+    "place_id" : "ChIJCxzf01MUrjsRc5Cxl0hNv0I",
+    "last_modified_date" : ISODate("2020-02-05T12:34:00.981+0000"),
+    "vicinity" : "Madiwala Checkpost Road, Hosur Main Road, Kaveri Layout, Suddagunte Palya, Bengaluru",
+    "id" : "12994",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6130531,
+            12.9310105
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a51ae3af086d6147c2f5"),
+    "types" : [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sri Rama Temple",
+    "lon" : 77.73651919999999,
+    "lat" : 12.9211515,
+    "place_id" : "ChIJET7hsoUSrjsRrgBWBMbGijk",
+    "last_modified_date" : ISODate("2020-02-01T09:50:32.189+0000"),
+    "vicinity" : "Gunjur, Bengaluru",
+    "id" : "12686",
+    "rating" : 4.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.73651919999999,
+            12.9211515
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a38ce3af086d6147bfae"),
+    "types" : [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "lon" : 77.6973895,
+    "place_id" : "ChIJYZJ2WHhvrjsRUC-PDkTFc8Q",
+    "lat" : 12.7095777,
+    "last_modified_date" : ISODate("2020-01-20T12:15:44.716+0000"),
+    "city" : "Bangalore",
+    "vicinity" : "AJBJ Complex Near Syndicate Bank, Vinayaka Nagar, Anekal",
+    "name" : "SBS Books Stall (Naveen Books)",
+    "id" : "12194",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6973895,
+            12.7095777
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a396e3af086d6147bfda"),
+    "types" : [
+        "electrician",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "sri guru enterprise & electricals",
+    "lon" : 77.697223,
+    "lat" : 12.710361,
+    "place_id" : "ChIJ62CST3hvrjsR-99t2PWXrf4",
+    "last_modified_date" : ISODate("2020-02-05T12:01:42.220+0000"),
+    "vicinity" : "#opp.S.B.M bank newpet anekal town, Bangalore",
+    "id" : "12216",
+    "rating" : 3.5,
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.697223,
+            12.710361
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a5ace3af086d6147c594"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Evok's",
+    "lon" : 77.6979861,
+    "lat" : 12.9430943,
+    "place_id" : "ChIJv-UfaLMTrjsRnIBQu0KuDGY",
+    "last_modified_date" : ISODate("2020-02-05T12:20:42.013+0000"),
+    "vicinity" : "Above Croma Store 36/2, 37/1, RP Business Centre First Floor Outer Ring Road, Kadubeesanahall",
+    "id" : "13105",
+    "rating" : 3.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6979861,
+            12.9430943
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a525e3af086d6147c328"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Malibu Bellezza",
+    "lon" : 77.73652489999999,
+    "lat" : 12.9249027,
+    "place_id" : "ChIJez79WIYSrjsR25A82AgEuiQ",
+    "last_modified_date" : ISODate("2020-01-20T12:02:35.963+0000"),
+    "vicinity" : "Near Vijaya Bank, State Highway 35, Gunjur Village, Bengaluru",
+    "id" : "12727",
+    "rating" : 4.1,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.73652489999999,
+            12.9249027
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a587e3af086d6147c4ea"),
+    "types" : [
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Saint Anthony's Friary Church",
+    "lon" : 77.61429009999999,
+    "lat" : 12.9300866,
+    "place_id" : "ChIJK8BZqFsUrjsR_r8snke7nOM",
+    "last_modified_date" : ISODate("2020-02-05T12:21:42.808+0000"),
+    "vicinity" : "85, Hosur Road, Koramangala, Bengaluru",
+    "id" : "12995",
+    "rating" : 4.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.61429009999999,
+            12.9300866
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a563e3af086d6147c444"),
+    "types" : [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Horamvu Clinic",
+    "lon" : 77.6612847,
+    "lat" : 13.0268283,
+    "place_id" : "ChIJxXzz2NEQrjsRqz-MiJbxfmg",
+    "last_modified_date" : ISODate("2020-02-05T12:07:58.034+0000"),
+    "vicinity" : "Kalkere Main Road, Ashirvad Colony, Horamavu, Bengaluru",
+    "id" : "12904",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6612847,
+            13.0268283
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a532e3af086d6147c363"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Widasconcepts India Private Limited",
+    "lon" : 77.668207,
+    "lat" : 12.919559,
+    "place_id" : "ChIJXQcWKnETrjsRJkfZcZ9QZ_4",
+    "last_modified_date" : ISODate("2020-02-05T12:31:47.224+0000"),
+    "vicinity" : "UNIT II SJR HUB, Ground Floor, Sajapur Road,, Bellandur, Bengaluru",
+    "id" : "12764",
+    "rating" : 4.2,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.668207,
+            12.919559
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a58ce3af086d6147c501"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Ahad Builders",
+    "lon" : 77.6148462,
+    "lat" : 12.9323438,
+    "place_id" : "ChIJ3zPoZ04UrjsRAFkBJSZxlFs",
+    "last_modified_date" : ISODate("2020-01-20T12:19:10.166+0000"),
+    "vicinity" : "# 80,\"Ahad PInnacle\"1st Floor, 5th Main, 2nd Cross, 5th Block, Koramangala Industrial layout, Bengaluru",
+    "id" : "13015",
+    "rating" : 4.2,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6148462,
+            12.9323438
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a562e3af086d6147c442"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Krazy Tots",
+    "lon" : 77.6614304,
+    "lat" : 13.0262597,
+    "place_id" : "ChIJz9OaxdEQrjsRzSEwhvqrpus",
+    "last_modified_date" : ISODate("2020-02-05T12:04:23.719+0000"),
+    "vicinity" : "No.12, 1st Cross Rd, Brindavan Layout, Horamavu, Bengaluru",
+    "id" : "12902",
+    "rating" : 4.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6614304,
+            13.0262597
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a473e3af086d6147c00a"),
+    "types" : [
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "HKGN Bike Works",
+    "lon" : 77.56479,
+    "lat" : 12.861502,
+    "place_id" : "ChIJdxQyq6dqrjsRYSgRKjCwcAU",
+    "last_modified_date" : ISODate("2020-01-20T12:19:19.150+0000"),
+    "vicinity" : "Shop No 4 Kembatta Gollhalli Anjanapura Post, 1st Main Road, Devarabisanahalli, Electronic City, Bengaluru",
+    "id" : "12237",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "coordinates" : [
+            77.56479,
+            12.861502
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a46de3af086d6147bff0"),
+    "types" : [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sri Guru Gents Parlour",
+    "lon" : 77.563611,
+    "lat" : 12.862202,
+    "place_id" : "ChIJF_44vKdqrjsRpY9zccY19gg",
+    "last_modified_date" : ISODate("2020-02-05T12:18:20.094+0000"),
+    "vicinity" : "Shop No 2 TulasiPura Main Road Anjanapura Circle Opp To Karthik Wines, Bengaluru",
+    "id" : "12228",
+    "rating" : 3.5,
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.563611,
+            12.862202
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a398e3af086d6147bfe3"),
+    "types" : [
+        "post_office",
+        "finance",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Anjanapura Post Office",
+    "lon" : 77.5644904,
+    "lat" : 12.8623368,
+    "place_id" : "ChIJEzwGtKdqrjsRR_bSXpcy0jg",
+    "last_modified_date" : ISODate("2020-02-05T12:30:20.131+0000"),
+    "vicinity" : "Golahalli, Anjanapura Township, Bengaluru",
+    "id" : "12222",
+    "rating" : 3.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.5644904,
+            12.8623368
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4bce3af086d6147c146"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Kanaka Swamy Convention Hall",
+    "lon" : 77.59233,
+    "lat" : 13.048745,
+    "place_id" : "ChIJQRu7Xo4XrjsR6uRPqhe7VM0",
+    "last_modified_date" : ISODate("2020-01-20T12:25:18.983+0000"),
+    "vicinity" : "Kempegowda Road, Near St James Church, Marinnapalem, Bengaluru",
+    "id" : "12421",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.59233,
+            13.048745
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a4c8e3af086d6147c17f"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Celestial Nandidurg",
+    "lon" : 77.6014151,
+    "lat" : 12.9977585,
+    "place_id" : "ChIJRenc2lsWrjsRcOJQuPZxSBs",
+    "last_modified_date" : ISODate("2020-02-05T12:12:40.088+0000"),
+    "vicinity" : "55, Byadarahalli, Benson Town, Bengaluru",
+    "id" : "12463",
+    "rating" : 4.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6014151,
+            12.9977585
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4c0e3af086d6147c157"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Neptune Controls Pvt Ltd",
+    "lon" : 77.6002252,
+    "lat" : 12.9981398,
+    "place_id" : "ChIJgZtPsVsWrjsRJehZnhl6phM",
+    "last_modified_date" : ISODate("2020-02-05T12:22:32.982+0000"),
+    "vicinity" : "9, Jayamahal Main Road, Nandi Durga Road Extension, Jayamahal, Bengaluru",
+    "id" : "12435",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6002252,
+            12.9981398
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4bbe3af086d6147c142"),
+    "types" : [
+        "general_contractor",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Akshaya Homes Builders & Developers",
+    "lon" : 77.5923297,
+    "lat" : 13.0487446,
+    "place_id" : "ChIJBxu7Xo4XrjsRWHFiRqa8x8s",
+    "last_modified_date" : ISODate("2020-02-05T12:07:59.295+0000"),
+    "vicinity" : "#8, Park Road , Chinnappa Layout, Hebbal Kempapura, Bengaluru",
+    "id" : "12418",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.5923297,
+            13.0487446
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4dae3af086d6147c1d1"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Festo India Private Limited",
+    "lon" : 77.69525999999999,
+    "lat" : 12.812227,
+    "place_id" : "ChIJtYCQlTVsrjsRPHs8yyo4zkE",
+    "last_modified_date" : ISODate("2020-01-20T12:31:22.560+0000"),
+    "vicinity" : "237B, Bommasandra Industrial Area, Hosur Highway, Bengaluru",
+    "id" : "12509",
+    "rating" : 4.3,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.69525999999999,
+            12.812227
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a489e3af086d6147c070"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "VASAVI DIGITAL STUDIO",
+    "lon" : 77.769707,
+    "lat" : 12.778257,
+    "place_id" : "ChIJL2bfZpNxrjsRsGnN3E2jDYw",
+    "last_modified_date" : ISODate("2020-02-05T12:21:42.945+0000"),
+    "vicinity" : "03, S.R attibele, #28, 2ND FLOOR,JayaBharathi School Complex, Attibele - Anekal Road, Bangalore",
+    "id" : "12294",
+    "rating" : NumberInt(3),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.769707,
+            12.778257
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a490e3af086d6147c08f"),
+    "types" : [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Attlibele Bus Stop",
+    "lon" : 77.771219,
+    "lat" : 12.778159,
+    "place_id" : "ChIJSTUVgZNxrjsRu278wqrqlBw",
+    "last_modified_date" : ISODate("2020-02-05T12:00:23.561+0000"),
+    "vicinity" : "Attibele",
+    "id" : "12306",
+    "rating" : 4.2,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.771219,
+            12.778159
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4d5e3af086d6147c1ba"),
+    "types" : [
+        "health",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Bahnu Nursing Home",
+    "lon" : 77.6282854,
+    "lat" : 12.9070046,
+    "place_id" : "ChIJuyqLg-wUrjsR1ZJlpPo0oFA",
+    "last_modified_date" : ISODate("2020-02-05T12:32:20.730+0000"),
+    "vicinity" : "Bommanahalli, Bengaluru",
+    "id" : "12495",
+    "rating" : 3.8,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6282854,
+            12.9070046
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a492e3af086d6147c099"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Quick Walls",
+    "lon" : 77.648173,
+    "lat" : 13.012479,
+    "place_id" : "ChIJwZwZ1NUWrjsRGkQJruFR-YE",
+    "last_modified_date" : ISODate("2020-01-20T12:11:14.533+0000"),
+    "vicinity" : "'AL-ANSAAR', 58 Banaswadi Main Road DoddaBanaswadi, Bengaluru",
+    "id" : "12313",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "coordinates" : [
+            77.648173,
+            13.012479
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a4c8e3af086d6147c17c"),
+    "types" : [
+        "laundry",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sancy's Laundry",
+    "lon" : 77.5996529,
+    "lat" : 12.9990819,
+    "place_id" : "ChIJ8_jmUFoWrjsRA2VnaglQwvw",
+    "last_modified_date" : ISODate("2020-02-05T12:00:54.566+0000"),
+    "vicinity" : "11/3, Nandi Durga Road Extension, Jayamahal, Bengaluru",
+    "id" : "12460",
+    "rating" : 2.7,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.5996529,
+            12.9990819
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a489e3af086d6147c06e"),
+    "last_modified_date" : ISODate("2020-02-05T12:19:20.014+0000"),
+    "vicinity" : "sjbces complrx attibele, bangalore",
+    "city" : "Bangalore",
+    "types" : [
+        "shopping_mall",
+        "point_of_interest",
+        "establishment"
+    ],
+    "name" : "Prestige Smart Kitchen",
+    "lon" : 77.76964989999999,
+    "place_id" : "ChIJR3PfaZNxrjsRf2rId1CdlNI",
+    "lat" : 12.7787797,
+    "id" : "12292",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.76964989999999,
+            12.7787797
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a38ee3af086d6147bfb5"),
+    "types" : [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "TICKET BOOKINGCENTER",
+    "lon" : 77.697463,
+    "lat" : 12.709218,
+    "place_id" : "ChIJf9jU9nhvrjsRNHFKBvnTEvs",
+    "last_modified_date" : ISODate("2020-02-05T12:34:37.605+0000"),
+    "vicinity" : "Bhajana Mana Street, Weaver Colony, Anekal",
+    "id" : "12196",
+    "rating" : 2.5,
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.697463,
+            12.709218
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4c6e3af086d6147c174"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Digital Jalebi",
+    "lon" : 77.6002228,
+    "lat" : 12.9993531,
+    "place_id" : "ChIJxdXcRVoWrjsRn_1MLCmByGs",
+    "last_modified_date" : ISODate("2020-01-20T12:13:59.731+0000"),
+    "vicinity" : "77/6-3, 3rd Floor, South Parade Residency, Binny Crescent Road, Nandidurga Road, Benson Town, Bangalore 560046, Nandi Durga Road, Byadarahalli, Benson Town, Bengaluru",
+    "id" : "12454",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "coordinates" : [
+            77.6002228,
+            12.9993531
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a485e3af086d6147c05f"),
+    "types" : [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "sri nidhi upahar",
+    "lon" : 77.7705538,
+    "lat" : 12.7784733,
+    "place_id" : "ChIJvTQjepNxrjsRE-LLPVqEvnM",
+    "last_modified_date" : ISODate("2020-02-05T12:27:58.033+0000"),
+    "vicinity" : "Gopalan Enterprises, ITPL Main Road, Phase 2, C V Raman Nagar, Bengaluru",
+    "id" : "12283",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(4),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.7705538,
+            12.7784733
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a38be3af086d6147bfa9"),
+    "types" : [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Swadeshi Ayurveda Bhandara",
+    "lon" : 77.697317,
+    "lat" : 12.709251,
+    "place_id" : "ChIJrwFQ93hvrjsRw13jn5ubndg",
+    "last_modified_date" : ISODate("2020-02-05T12:13:42.086+0000"),
+    "vicinity" : "Thali Road, Weaver Colony, Anekal",
+    "id" : "12191",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.697317,
+            12.709251
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a48de3af086d6147c080"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "G.R Enterprises",
+    "lon" : 77.770811,
+    "lat" : 12.779639,
+    "place_id" : "ChIJY00oCpNxrjsRhnK5J-KtvG4",
+    "last_modified_date" : ISODate("2020-01-20T12:17:02.972+0000"),
+    "vicinity" : "Chowdeshwari complex, Sarjapura main road, Attibele, Bangalore",
+    "id" : "12300",
+    "rating" : NumberInt(5),
+    "reviews_count" : NumberInt(1),
+    "location" : {
+        "coordinates" : [
+            77.770811,
+            12.779639
+        ],
+        "type" : "Point"
+    }
+}
+{
+    "_id" : ObjectId("58a2a47ae3af086d6147c02c"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Lyman Technology",
+    "lon" : 77.60767609999999,
+    "lat" : 12.9712466,
+    "place_id" : "ChIJaazfZFAWrjsRI-9cjVX5wsI",
+    "last_modified_date" : ISODate("2020-02-05T12:23:56.035+0000"),
+    "vicinity" : "Magrath Road, Ashok Nagar, Bengaluru",
+    "id" : "12251",
+    "rating" : NumberInt(4),
+    "reviews_count" : NumberInt(2),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.60767609999999,
+            12.9712466
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a391e3af086d6147bfc2"),
+    "city" : "Bangalore",
+    "lat" : 12.70936,
+    "types" : [
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+    ],
+    "lon" : 77.696449,
+    "last_modified_date" : ISODate("2020-02-05T12:18:42.692+0000"),
+    "name" : "KSRTC Ticket Counter",
+    "vicinity" : "Thali Road, Weaver Colony, Anekal",
+    "place_id" : "ChIJ1exLAHlvrjsRYMHd4amw3LA",
+    "id" : "12207",
+    "rating" : 3.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.696449,
+            12.70936
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a396e3af086d6147bfdd"),
+    "types" : [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Sri Rama Temple",
+    "lon" : 77.6981314,
+    "lat" : 12.7093475,
+    "place_id" : "ChIJieVri3hvrjsRR4X14eLAtuY",
+    "last_modified_date" : ISODate("2020-02-05T12:28:54.753+0000"),
+    "vicinity" : "Vinayaka Nagar, Anekal",
+    "id" : "12219",
+    "rating" : 4.6,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6981314,
+            12.7093475
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a488e3af086d6147c06c"),
+    "types" : [
+        "hospital",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Govt Hospital",
+    "lon" : 77.7710051,
+    "lat" : 12.7790942,
+    "place_id" : "ChIJMcsxnpNxrjsRnCP95p_mqCU",
+    "last_modified_date" : ISODate("2020-02-01T09:32:22.220+0000"),
+    "vicinity" : "Attibele",
+    "id" : "12291",
+    "rating" : 2.5,
+    "reviews_count" : NumberInt(4),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.7710051,
+            12.7790942
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4d9e3af086d6147c1cb"),
+    "vicinity" : "259/B, Hosur Road, Bommasandra Industrial Area, Bengaluru",
+    "place_id" : "ChIJWbiwLzRsrjsRf86qw7ejvJc",
+    "lat" : 12.81018,
+    "types" : [
+        "university",
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "lon" : 77.694261,
+    "name" : "BTL Institute of Technology & Management",
+    "last_modified_date" : ISODate("2020-02-01T09:39:06.081+0000"),
+    "id" : "12503",
+    "rating" : 3.9,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.694261,
+            12.81018
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4c6e3af086d6147c173"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Brigade Crescent, Nandidurg Road, Bangalore",
+    "lon" : 77.6006208,
+    "lat" : 12.9993952,
+    "place_id" : "ChIJY7DMSVoWrjsRpMve7l9-cL0",
+    "last_modified_date" : ISODate("2020-02-05T12:16:00.934+0000"),
+    "vicinity" : "Benson Cross Road, Benson Town, Bengaluru",
+    "id" : "12453",
+    "rating" : 4.1,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6006208,
+            12.9993952
+        ]
+    }
+}
+{
+    "_id" : ObjectId("58a2a4c3e3af086d6147c165"),
+    "types" : [
+        "point_of_interest",
+        "establishment"
+    ],
+    "city" : "Bangalore",
+    "name" : "Pors & Rao",
+    "lon" : 77.6010064,
+    "lat" : 12.999083,
+    "place_id" : "ChIJi4MuMVoWrjsRD9x6kyqBLCE",
+    "last_modified_date" : ISODate("2020-02-05T12:20:00.419+0000"),
+    "vicinity" : "78/A, Benson Cross Rd, Bengaluru",
+    "id" : "12446",
+    "rating" : 4.5,
+    "reviews_count" : NumberInt(5),
+    "location" : {
+        "type" : "Point",
+        "coordinates" : [
+            77.6010064,
+            12.999083
+        ]
+    }
+}
